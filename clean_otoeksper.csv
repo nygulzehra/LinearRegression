@@ -1,0 +1,957 @@
+fiyat,yil,marka,seri,model,kilometre,vites_tipi,yakit_tipi,cekis,yakit_deposu,motor_hacmi,motor_gucu,boyali_parca,degisen_parca,fiyat_log
+150900,13,Fiat,Albea Sole 1.3 Multijet Premio,Albea,229797,Düz,Dizel,Önden Çekiş,48.0,1248,70.0,0,0,11.924372644755941
+210000,14,Peugeot,206 Sedan 1.4 Comfort,206,217000,Düz,Benzin,Önden Çekiş,50.0,1360,75.0,2,0,12.254862809699606
+445750,12,Toyota,Corolla Sedan 1.4 D-4D Comfort Extra M-M,Corolla,174035,Düz,Dizel,Önden Çekiş,55.0,1364,90.0,1,3,13.007513535725387
+205000,15,Fiat,Albea Sole 1.4 Fire Dynamic,Albea,206000,Düz,LPG & Benzin,Önden Çekiş,48.0,1368,77.0,0,0,12.230765258120545
+402000,11,Ford,Fiesta 1.4 TDCi Titanium,Fiesta,81108,Düz,Dizel,Önden Çekiş,45.0,1398,68.0,2,0,12.904207367601158
+230000,19,Renault,Clio 1.2 16V Authentique,Clio,92795,Düz,Benzin,Önden Çekiş,55.0,1149,75.0,2,0,12.345834587905333
+420000,7,Renault,Symbol 1.5 dCi Touch,Symbol,216403,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,4,1,12.948009990259552
+450000,11,Ford,Focus 1.6 Ti-VCT Style Powershift,Focus,134554,Otomatik,LPG & Benzin,Önden Çekiş,55.0,1596,125.0,1,0,13.017002861746503
+310000,12,Opel,Astra Classic III 1.6i 16V Essentia,Astra,277213,Düz,Dizel,Önden Çekiş,52.0,1598,115.0,1,1,12.644327576461329
+225000,16,Toyota,Yaris 1.4 D-4D Terra,Yaris,226469,Düz,Dizel,Önden Çekiş,42.0,1364,90.0,4,0,12.323855681186558
+479900,9,Fiat,500L Living 1.3 Mjet Lounge Dualogic,500L Living,133374,Otomatik,Dizel,Önden Çekiş,50.0,1248,85.0,3,0,13.081333027846338
+370000,8,Fiat,Linea 1.3 Multijet Easy,Linea,99236,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.821258284620408
+310000,10,Ford,Fiesta 1.5 TDCi Trend,Fiesta,236860,Düz,Dizel,Önden Çekiş,42.0,1498,75.0,2,2,12.644327576461329
+330000,9,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,172000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,5,0,12.706847933442663
+450000,13,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,144482,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,1,3,13.017002861746503
+250900,12,Ford,Focus 1.6 TDCi Collection,Focus,198928,Düz,Dizel,Önden Çekiş,55.0,1560,90.0,8,2,12.432809732354514
+189900,16,Fiat,Linea 1.4 Fire Active,Linea,332016,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,77.0,11,2,12.154252896800378
+220000,11,Fiat,Doblo Combi 1.3 Multijet Dynamic,Doblo,275000,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,3,3,12.301382825334498
+520000,6,Fiat,Linea 1.3 Multijet Pop,Linea,96244,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,13.16158409055761
+500000,10,Hyundai,i20 1.2 D-CVVT SENSE,i20,109331,Düz,Benzin,Önden Çekiş,45.0,1248,85.0,0,3,13.122363377404328
+321000,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,165750,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,1,12.679196402112153
+345000,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,71144,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.751299696013497
+365900,12,Toyota,Auris 1.4 D-4D Comfort Plus,Auris,158933,Düz,Dizel,Önden Çekiş,55.0,1364,90.0,1,1,12.810115351007298
+320000,9,Nissan,Micra 1.2 Street,Micra,71652,Düz,Benzin,Önden Çekiş,41.0,1198,80.0,2,0,12.676076274775909
+555000,5,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,118428,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,4,0,13.226723392728571
+425000,4,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,78242,Düz,Benzin,Önden Çekiş,45.0,1248,94.0,2,0,12.959844447906553
+394900,5,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,151075,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.88638784727474
+389900,5,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,181181,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.87364557497069
+409900,5,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,167877,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.92366850649243
+290000,6,Fiat,1.3 MultiJet Easy ESP 90 Ps Combi,Doblo,170000,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,4,0,12.577636201962656
+480000,5,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,52197,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,0,2,13.081541382884074
+458000,3,Fiat,1.4 16V Fire Urban Plus 95 Ps Hatchback,Egea,41000,Düz,LPG & Benzin,Önden Çekiş,50.0,1368,94.0,0,0,13.034624463096321
+330000,19,Renault,1.6 Authentique 115 Ps Sedan,Megane,200970,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,114.0,7,0,12.706847933442663
+400000,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,11993,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.89921982609012
+400000,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,6040,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.89921982609012
+400000,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,17673,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.89921982609012
+487000,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,26289,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.096019402064726
+415000,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,99507,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.936033799212835
+440000,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,28511,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.994530005894443
+420900,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,48038,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.950150554758663
+369900,5,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,128901,Düz,Dizel,Önden Çekiş,45.0,1368,94.0,1,3,12.820987977820545
+515900,1,Fiat,1.6 MultiJet Safeline 120 Ps Combi,Doblo,11379,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.15366822723274
+350000,5,Fiat,1.3 MultiJet Easy 95 Ps Combi,Doblo,170506,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,2,0,12.765688433465597
+400000,2,Fiat,1.3 MultiJet Easy 95 Ps Combi,Doblo,94763,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.89921982609012
+549900,3,Dacia,1.6 Sce Eco-G Comfort 115 Ps SUV,Duster,31685,Düz,LPG & Benzin,Önden Çekiş,50.0,1598,113.0,0,0,13.217491722495906
+420000,4,Renault,0.9 TCe Joy 90 Ps Sedan,Symbol,39227,Düz,Benzin,Önden Çekiş,50.0,8980,89.0,0,0,12.948009990259552
+490000,3,Fiat,1.4 Fire Urban Plus 95 Ps Sedan,Egea,6328,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.102160670086809
+480000,4,Fiat,1.4 Fire Urban Plus 95 Ps Sedan,Egea,24195,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.081541382884074
+525000,3,Fiat,1.4 16V Fire Street 95 Ps Hatchback,Egea,26045,Düz,Benzin,Önden Çekiş,50.0,1368,94.0,0,0,13.17115354157376
+550000,4,Fiat,1.6 E-Torq Easy Otomatik 110 Ps Sedan,Egea,54967,Otomatik,Benzin,Önden Çekiş,45.0,1598,109.0,0,2,13.217673557208654
+475000,4,Citroen,1.6 BlueHDI Feel 102 Ps Kombi,Berlingo,22138,Düz,LPG & Benzin,Önden Çekiş,53.0,1560,100.0,0,0,13.071070083016778
+350000,13,Skoda,Fabia 1.4 PD TDi Classic,Fabia,138520,Düz,Dizel,Önden Çekiş,45.0,1422,70.0,0,0,12.765688433465597
+485000,2,Citroen,1.5 BlueHDI Feel 100 Ps Sedan,C-Elysee,39026,Düz,Benzin,Önden Çekiş,50.0,1499,98.0,0,0,13.091904169919621
+520000,10,Opel,Corsa 1.2i Twinport Essentia S-S,Corsa,155626,Düz,Benzin,Önden Çekiş,45.0,1229,85.0,0,0,13.16158409055761
+510000,3,Fiat,1.3 MultiJet Easy Plus 95 Ps Sedan,Egea,28500,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,2,13.142166004700508
+550000,2,Fiat,1.6 MultiJet Trekking 120 Ps Combi,Doblo,10478,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.217673557208654
+415000,11,Ford,1.6 Ti-VCT Style Plus 125 Ps Hatchback,Focus,132934,Otomatik,LPG & Benzin,Önden Çekiş,55.0,1596,123.0,3,2,12.936033799212835
+460000,12,Hyundai,Elantra 1.6 D-CVVT Prime Plus Otomatik,Elantra,98495,Otomatik,Benzin,Önden Çekiş,48.0,1591,132.0,0,1,13.038981768465277
+219900,17,Renault,1.6 Dynamique 115 Ps Grandtour,Megane,397220,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,114.0,0,0,12.300928176542852
+146900,19,Peugeot,1.4 HDI XR 69 Ps Hatchback,307,246250,Düz,Dizel,Önden Çekiş,60.0,1398,68.0,0,0,11.897507362161969
+479900,4,Renault,0.9 TCe Touch 90 Ps Hatchback,Clio,73266,Düz,Benzin,Önden Çekiş,45.0,8980,89.0,0,0,13.081333027846338
+405900,5,Renault,1.2 16V Joy 75 Ps Hatchback,Clio,42111,Düz,Benzin,Önden Çekiş,45.0,1149,74.0,4,0,12.91386210282699
+539900,3,Fiat,1.6 MultiJet Easy DCT 120 Ps Sedan,Egea,116568,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,0,1,13.199139216206378
+435900,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,96445,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.985168138226484
+445900,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,46662,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.007849990615568
+494900,6,Renault,1.5 DCI Touch EDC 90 Ps Hatchback,Clio,86105,Düz,Dizel,Önden Çekiş,45.0,1461,89.0,4,2,13.112111000939978
+465900,8,Fiat,1.6 MultiJet Lounge 120 Ps Sedan,Egea,108693,Düz,Benzin,Önden Çekiş,45.0,1598,118.0,0,2,13.051726297804889
+359900,7,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,182581,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,3,3,12.793581494067123
+385900,17,Mercedes,Vaneo 140 Trend,Vaneo,239819,Düz,Dizel,Önden Çekiş,54.0,1598,82.0,7,3,12.863333547525711
+325900,6,Fiat,Linea 1.3 Multijet Pop,Linea,116667,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,0,12.694345864825653
+245900,9,Fiat,Linea 1.3 Multijet Pop,Linea,242938,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,4,12.412680228204284
+150900,19,Opel,Corsa 1.3 CDTI Essentia,Corsa,228274,Düz,Dizel,Önden Çekiş,44.0,1248,70.0,0,9,11.924372644755941
+405900,8,Renault,Symbol 1.5 dCi Joy,Symbol,45289,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,1,0,12.91386210282699
+215900,18,Fiat,Panda 1.2 Dynamic,Panda,158278,Düz,Benzin,Önden Çekiş,35.0,1242,60.0,7,0,12.282570616502898
+229900,17,Renault,Clio 1.2 16V Expression,Clio,171213,Düz,Benzin,Önden Çekiş,55.0,1149,75.0,0,0,12.345399710751273
+215900,17,Hyundai,Getz 1.5 VGT 4 HY KLM ABS SR,Getz,208186,Düz,Dizel,Önden Çekiş,45.0,1493,110.0,7,2,12.282570616502898
+349900,11,Opel,Corsa 1.4i Twinport Enjoy Otomatik 15 Alaşım Jant,Corsa,135280,Otomatik,LPG & Benzin,Önden Çekiş,45.0,1364,100.0,3,3,12.765402678355779
+325900,12,Renault,Megane 1.5 dCi Privilege,Megane,293528,Düz,Dizel,Önden Çekiş,60.0,1461,105.0,0,0,12.694345864825653
+299900,13,Fiat,Grande Punto 1.4 Fire Active,Grande Punto,86984,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,0,0,12.6112043647371
+342900,12,Fiat,Punto EVO 1.3 Mjet Dynamic,Punto,92558,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,2,0,12.745194138451012
+320900,8,Fiat,Linea 1.3 Multijet Pop GSR,Linea,102344,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,2,3,12.678884827097948
+325000,15,Hyundai,Accent Era 1.4 Team ABS,Accent,61621,Düz,Benzin,Önden Çekiş,45.0,1399,97.0,4,0,12.691580461311874
+175000,19,Renault,Symbol 1.4 Alize,Symbol,224924,Düz,LPG & Benzin,Önden Çekiş,50.0,1390,98.0,2,0,12.072541252905651
+365000,10,Ford,Fiesta 1.5 TDCi Titanium,Fiesta,121184,Düz,Dizel,Önden Çekiş,42.0,1498,75.0,4,1,12.80765263256463
+321900,10,Citroen,C- Elysee 1.6 HDİ Exclusive,C- Elysee,154242,Düz,Dizel,Önden Çekiş,48.0,1560,92.0,2,1,12.6819962172869
+310000,12,Chevrolet,Aveo 1.4 LT,Aveo,170000,Düz,LPG & Benzin,Önden Çekiş,46.0,1398,100.0,0,0,12.644327576461329
+225900,15,Opel,Vectra 1.6 Comfort,Vectra,146000,Düz,LPG & Benzin,Önden Çekiş,61.0,1598,105.0,13,0,12.327847702456095
+450000,12,Renault,Fluence 1.5 dCi Dynamique,Fluence,132905,Düz,Dizel,Önden Çekiş,60.0,1461,85.0,0,0,13.017002861746503
+610000,11,Peugeot,508 1.6 HDi Active,508,191952,Düz,Dizel,Önden Çekiş,72.0,1560,112.0,2,0,13.321214236149494
+370000,13,Ford,Fiesta 1.4 Titanium,Fiesta,131000,Düz,LPG & Benzin,Önden Çekiş,42.0,1388,96.0,0,0,12.821258284620408
+365000,15,Volkswagen,Jetta 1.6 Primeline,Jetta,115062,Düz,Benzin,Önden Çekiş,55.0,1595,102.0,6,0,12.80765263256463
+319900,13,Opel,Astra Sedan 1.6 Enjoy,Astra,116556,Düz,LPG & Benzin,Önden Çekiş,52.0,1598,115.0,3,5,12.675763725937609
+270000,16,Hyundai,Getz 1.5 VGT 4 HY KLM ABS SR,Getz,235000,Düz,Dizel,Önden Çekiş,45.0,1493,110.0,0,0,12.506177237980511
+370000,6,Renault,Symbol 1.5 dCi Joy,Symbol,110577,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,0,0,12.821258284620408
+355000,12,Ford,Focus 1.6 TDCi Comfort,Focus,194000,Düz,Dizel,Önden Çekiş,53.0,1560,95.0,0,0,12.779873068457553
+500000,9,Bmw,116d EfficientDynamics,1 Serisi,223550,Düz,Dizel,Arkadan İtiş,52.0,1598,116.0,2,0,13.122363377404328
+280000,17,Fiat,Marea 1.6 16V Liberty,Marea,143737,Düz,Benzin,Önden Çekiş,63.0,1596,103.0,4,2,12.542544882151386
+300000,11,Renault,Symbol 1.5 dCi Authentique,Symbol,134613,Düz,Dizel,Önden Çekiş,50.0,1461,65.0,0,0,12.611537753638338
+300000,8,Fiat,Linea 1.3 Multijet Pop,Linea,155591,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,2,0,12.611537753638338
+385000,8,Renault,Clio 1.5 dCi Joy,Clio,107776,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,0,0,12.86099861326992
+430000,9,Hyundai,i20 1.4 CRDI JUMP,i20,107943,Düz,Dizel,Önden Çekiş,45.0,1396,90.0,1,2,12.971540487669746
+340000,11,Renault,Clio 1.2 16V Joy,Clio,182000,Düz,Benzin,Önden Çekiş,45.0,1149,75.0,0,0,12.736700896592344
+350000,8,Renault,Clio 1.2 16V Joy,Clio,137370,Düz,LPG & Benzin,Önden Çekiş,45.0,1149,75.0,3,0,12.765688433465597
+182000,17,Peugeot,206 1.4 Fever,206,204317,Düz,Dizel,Önden Çekiş,50.0,1360,75.0,8,1,12.111761966058932
+230000,12,Fiat,Punto EVO 1.3 Mjet My Life Start-Stop,Punto,217393,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,4,0,12.345834587905333
+450000,7,Renault,Kangoo Multix 1.5 dCi Touch,Kangoo,131059,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,5,0,13.017002861746503
+272000,8,Fiat,1.3 MultiJet Safeline 90 Ps Combi,Doblo,223549,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,3,2,12.513557345278134
+475000,4,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,104756,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.071070083016778
+475000,6,Renault,1.5 DCI Joy 75 Ps Hatchback,Clio,111837,Düz,Dizel,Önden Çekiş,45.0,1461,74.0,0,0,13.071070083016778
+360000,8,Fiat,1.3 MultiJet Premio Plus 90 Ps Combi,Doblo,161736,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,0,0,12.793859310432293
+210900,16,Citroen,C3 1.4 HDi X Furio,C3,184740,Düz,Dizel,Önden Çekiş,47.0,1398,70.0,3,2,12.259139366466865
+280000,14,Chevrolet,1.2 LS 84 Ps Sedan,Aveo,130000,Düz,LPG & Benzin,Önden Çekiş,45.0,1206,84.0,0,0,12.542544882151386
+452900,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,7338,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.023426629544305
+419900,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,21914,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.947771866672285
+550000,7,Volkswagen,2.0 TDI SCR BMT Comfortline 102 Ps Combi,Caddy,83786,Düz,Dizel,Önden Çekiş,60.0,1968,101.0,0,0,13.217673557208654
+400000,6,Renault,Kangoo Multix 1.5 dCi Joy,Kangoo,193051,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,5,2,12.89921982609012
+320000,12,Citroen,C4 1.4 VTi Attraction,C4,131500,Düz,Benzin,Önden Çekiş,60.0,1397,95.0,5,0,12.676076274775909
+510000,2,Fiat,1.6 MultiJet Trekking 120 Ps Combi,Doblo,33696,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,2,0,13.142166004700508
+485000,3,Fiat,1.6 MultiJet 20.Yıl Ozel Seri 120 Ps Combi,Doblo,104531,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.091904169919621
+290000,23,Bmw,320Ci Otomatik 170 Ps Coupe,3 Serisi,295000,Düz,LPG & Benzin,Arkadan İtiş,63.0,2171,168.0,0,0,12.577636201962656
+599900,8,Fiat,1.4 T MultiAir Cross Plus TCT 140 Ps Crossover,500 X,79422,Düz,Benzin,Önden Çekiş,48.0,1368,138.0,1,0,13.304518253641184
+229750,19,Chevrolet,Lacetti 1.6 16V SX Otomatik,Lacetti,192000,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,109.0,0,0,12.344747040217934
+610000,2,Peugeot,1.5 BlueHDI Allure EAT8 132 Ps Hatchback,208,29700,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,2,2,13.321214236149494
+615000,6,Peugeot,1.2 PureTech Active EAT6 132 Ps Hatchback,308,38767,Otomatik,Benzin,Önden Çekiş,53.0,1199,130.0,0,0,13.329377546788654
+365000,11,Skoda,Fabia 1.2 Optimal,Fabia,135812,Düz,Benzin,Önden Çekiş,45.0,1198,70.0,4,2,12.80765263256463
+400000,15,Toyota,Auris 1.4 D-4D Comfort,Auris,193000,Düz,Dizel,Önden Çekiş,55.0,1364,90.0,2,0,12.89921982609012
+575000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,53500,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,3,13.262125319779487
+329000,1,Hyundai,1.4 MPI Jump 100 Ps Hatchback,i20,200267,Düz,LPG & Benzin,Önden Çekiş,40.0,1368,99.0,2,0,12.70381302974751
+489900,3,Fiat,1.4 16V Fire Mirror 95 Ps Hatchback,Egea,28603,Düz,Benzin,Önden Çekiş,50.0,1368,94.0,0,0,13.101956567626667
+300000,13,Hyundai,1.4 Expo Gold Plus 97 Ps Sedan,Accent Era,214815,Düz,LPG & Benzin,Önden Çekiş,45.0,1399,95.0,0,2,12.611537753638338
+415000,8,Seat,Ibiza ST 1.4 16V Style,Ibiza,98500,Düz,LPG & Benzin,Önden Çekiş,45.0,1390,85.0,3,0,12.936033799212835
+300000,23,Honda,1.6i VTEC ES 110 Ps Sedan,Civic,194759,Düz,LPG & Benzin,Önden Çekiş,50.0,1590,109.0,6,4,12.611537753638338
+497500,3,Peugeot,1.5 BlueHDI Active 102 Ps Sedan,301,38893,Düz,Dizel,Önden Çekiş,50.0,1499,100.0,3,1,13.117350835580785
+475000,2,Fiat,1.4 Fire Easy Plus 95 Ps Sedan,Egea,45218,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.071070083016778
+604000,2,Fiat,1.6 MultiJet Premio Plus 120 Ps Combi,Doblo,128902,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.311329476916953
+438000,6,Fiat,1.6 16V MultiJet II Urban Plus 120 Ps Station Wago,Egea,104666,Düz,Dizel,Önden Çekiş,50.0,1598,118.0,0,3,12.989974189358584
+800000,3,Fiat,1.3 MultiJet Urban Plus 95 Ps Sedan,Egea,49698,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.592367006650065
+470000,3,Fiat,1.3 MultiJet Urban Plus 95 Ps Sedan,Egea,97570,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.060487973686241
+680000,6,Nissan,1.5 DCI Visia 110 Ps SUV,Qashqai,96188,Düz,Dizel,Önden Çekiş,55.0,1461,108.0,0,0,13.42984807715229
+560000,4,Renault,1.5 DCI Touch 90 Ps Hatchback,Clio,84420,Düz,Dizel,Önden Çekiş,45.0,1461,89.0,1,0,13.235692062711331
+445000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,11399,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,1,2,13.005829561148378
+440900,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,17201,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.99657337134603
+485000,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,6154,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.091904169919621
+485000,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,6013,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.091904169919621
+475000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,24859,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,2,0,13.071070083016778
+445000,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,21650,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.005829561148378
+425000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,29166,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.959844447906553
+501500,4,Fiat,1.4 16V Fire Urban Plus 95 Ps Hatchback,Egea,63857,Düz,LPG & Benzin,Önden Çekiş,50.0,1368,94.0,2,2,13.125358886384127
+540000,1,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,15257,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.199324418540456
+481000,4,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,79719,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.083622549087899
+650000,5,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,96030,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.38472764187182
+480000,3,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,70600,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.081541382884074
+420000,6,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,73154,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,0,12.948009990259552
+485000,5,Fiat,1.6 MultiJet Urban DCT 120 Ps Sedan,Egea,81500,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,0,0,13.091904169919621
+350000,13,Opel,Astra HB 1.6 Enjoy Easytronic,Astra,136000,Otomatik,Benzin,Önden Çekiş,52.0,1598,115.0,3,3,12.765688433465597
+430000,10,Volkswagen,Golf 1.2 TSI BMT Midline Plus,Golf,174204,Düz,Benzin,Önden Çekiş,50.0,1197,105.0,6,3,12.971540487669746
+420000,11,Hyundai,i20 1.4 CVVT Sense Otomatik,i20,115091,Düz,LPG & Benzin,Önden Çekiş,45.0,1396,100.0,0,0,12.948009990259552
+370000,16,Honda,Civic 1.6 Elegance,Civic,259931,Düz,LPG & Benzin,Önden Çekiş,50.0,1595,125.0,5,0,12.821258284620408
+310000,9,Fiat,Linea 1.4 Fire Actual,Linea,155000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,2,0,12.644327576461329
+290000,10,Hyundai,i20 1.4 CRDI JUMP,i20,218055,Düz,Benzin,Önden Çekiş,45.0,1396,90.0,8,4,12.577636201962656
+250000,12,Toyota,COROLLA SEDAN 1.6 ELEGANT,Corolla,353580,Düz,Dizel,Önden Çekiş,55.0,1598,124.0,0,3,12.429216196844383
+315000,8,Fiat,Linea 1.3 Multijet Pop,Linea,197489,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,1,12.66032791780777
+345000,6,Fiat,Linea 1.3 Multijet Pop,Linea,185912,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,0,12.751299696013497
+310000,13,Ford,Focus 1.6 TDCi Trend,Focus,274000,Düz,Dizel,Önden Çekiş,55.0,1560,90.0,4,0,12.644327576461329
+305000,12,Fiat,Doblo Combi 1.3 Multijet Dynamic,Doblo,204118,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,1,0,12.628067055589549
+219900,18,Renault,Clio 1.4 16V Authentique,Clio,129197,Düz,Benzin,Önden Çekiş,55.0,1390,98.0,0,0,12.300928176542852
+219900,17,Fiat,Palio 1.4 Fire Active,Palio,70037,Düz,Benzin,Önden Çekiş,51.0,1368,77.0,6,1,12.300928176542852
+520000,7,Renault,Fluence 1.5 dCi Icon,Fluence,102074,Otomatik,Dizel,Önden Çekiş,60.0,1461,110.0,0,0,13.16158409055761
+300000,14,Renault,Symbol 1.4 8V Authentique,Symbol,105000,Düz,Benzin,Önden Çekiş,50.0,1390,75.0,12,0,12.611537753638338
+515000,11,Volkswagen,Jetta 1.6 TDI Comfortline DSG,Jetta,120550,Otomatik,Dizel,Önden Çekiş,55.0,1598,105.0,6,2,13.151922179645874
+300000,11,Opel,Corsa 1.3 CDTI Essentia,Corsa,207900,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,0,0,12.611537753638338
+265000,13,Chevrolet,Cruze 1.6 LS,Cruze,199520,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,113.0,0,0,12.487485104968359
+268000,11,Fiat,Punto 1.2 Pop S-S,Punto,159930,Düz,Benzin,Önden Çekiş,45.0,1242,69.0,0,0,12.498742259492994
+390000,7,Fiat,Doblo Combi 1.3 M.jet Safeline,Doblo,112226,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,0,12.873902018105829
+499000,9,Skoda,Yeti 1.6 TDI Ambition Greenline,Yeti,187835,Otomatik,Dizel,Önden Çekiş,60.0,1598,105.0,2,1,13.120361374733656
+409500,10,Renault,Clio 1.2 16V Icon,Clio,73396,Düz,Benzin,Önden Çekiş,45.0,1149,75.0,1,3,12.922692182275261
+300000,8,Citroen,Nemo Combi 1.3 HDI SX Plus Vizyon,Nemo,138291,Düz,Dizel,Önden Çekiş,45.0,1248,74.0,3,0,12.611537753638338
+318000,14,Hyundai,Accent Era 1.4 Team,Accent,134040,Düz,LPG & Benzin,Önden Çekiş,45.0,1399,97.0,2,2,12.669806661762314
+300000,11,Fiat,Doblo Combi 1.6 M.jet Easy,Doblo,305675,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,12.611537753638338
+450000,11,Renault,Fluence 1.5 dCi Business EDC,Fluence,210000,Düz,Benzin,Önden Çekiş,60.0,1461,110.0,1,2,13.017002861746503
+600000,11,Renault,Clio 1.5 dCi Extreme,Clio,150147,Düz,Dizel,Önden Çekiş,55.0,1461,85.0,3,1,13.304684934198283
+380000,20,Ford,Focus 1.6 Ghia,Focus,216083,Düz,Benzin,Önden Çekiş,55.0,1596,100.0,10,0,12.84792653170257
+249900,14,Hyundai,Getz 1.5 VGT 4 HY KLM,Getz,232411,Düz,Dizel,Önden Çekiş,45.0,1493,88.0,0,1,12.428816116823043
+210000,17,Renault,Clio 1.4 16V Dynamique,Clio,212130,Düz,LPG & Benzin,Önden Çekiş,55.0,1390,98.0,4,0,12.254862809699606
+405000,11,Renault,Clio Turbo Icon Stop-Start,Clio,112124,Düz,Benzin,Önden Çekiş,45.0,8980,90.0,0,0,12.911642346088676
+360000,6,Peugeot,301 1.6 Hdi Active,301,242397,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,0,0,12.793859310432293
+360000,6,Peugeot,301 1.6 Hdi Active,301,191077,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,1,1,12.793859310432293
+260000,18,Nissan,Almera 1.5 Tekna,Almera,275323,Düz,LPG & Benzin,Önden Çekiş,60.0,1498,98.0,1,0,12.468436909997665
+440000,7,Fiat,Doblo Combi 1.6 M.jet Premio Plus,Doblo,68222,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,12.994530005894443
+205000,12,Peugeot,Partner Tepee 1.6 HDI Premium Pack,Partner,217350,Düz,Dizel,Önden Çekiş,60.0,1560,110.0,0,0,12.230765258120545
+440000,12,Ford,Focus 1.6 Collection,Focus,173895,Düz,LPG & Benzin,Önden Çekiş,55.0,1596,100.0,0,1,12.994530005894443
+200000,17,Chevrolet,Lacetti Sedan 1.6 16V SX,Lacetti,156000,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,109.0,5,0,12.206072645530174
+1200000,6,Nissan,X-Trail 1.6 dCi Sky Pack Xtronic,X-Trail,80000,Otomatik,Dizel,Önden Çekiş,60.0,1598,131.0,0,0,13.997832114758229
+219900,15,Fiat,Palio Sole 1.4 Fire Dynamic,Palio,223917,Düz,LPG & Benzin,Önden Çekiş,51.0,1368,77.0,3,0,12.300928176542852
+350000,7,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,221489,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,12.765688433465597
+400000,10,Opel,Corsa 1.3 CDTI Essentia,Corsa,78446,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,1,1,12.89921982609012
+330000,12,Volkswagen,Caddy 1.6 TDI Trendline,Caddy,328700,Düz,Dizel,Önden Çekiş,60.0,1598,102.0,2,0,12.706847933442663
+295000,8,Renault,Symbol 1.5 dCi Joy,Symbol,182000,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,3,0,12.594730635321957
+279900,8,Renault,Symbol 1.2 16V Joy,Symbol,176288,Düz,Benzin,Önden Çekiş,50.0,1149,75.0,3,1,12.542187675503545
+310000,11,Ford,Fiesta 1.25i Trend,Fiesta,71400,Düz,Benzin,Önden Çekiş,42.0,1242,82.0,4,0,12.644327576461329
+244900,12,Renault,Symbol 1.5 dCi Authentique,Symbol,152778,Düz,Dizel,Önden Çekiş,50.0,1461,65.0,7,2,12.40860524294026
+310000,8,Fiat,Linea 1.3 Multijet Pop,Linea,238078,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,0,12.644327576461329
+350000,8,Fiat,Linea 1.3 Multijet Pop,Linea,58025,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,0,12.765688433465597
+245000,12,Fiat,Linea 1.6 Multijet Emotion Plus,Linea,242000,Düz,Dizel,Önden Çekiş,45.0,1598,105.0,0,0,12.409013489526863
+300000,9,Fiat,Linea 1.3 Multijet Actual,Linea,135828,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,1,12.611537753638338
+310000,13,Suzuki,ALTO 1.0 GL,Alto,110555,Düz,Benzin,Önden Çekiş,35.0,9960,68.0,2,0,12.644327576461329
+385000,9,Hyundai,i20 1.4 CRDI JUMP,i20,101901,Düz,Dizel,Önden Çekiş,45.0,1396,90.0,0,0,12.86099861326992
+300000,11,Hyundai,i20 1.4 CVVT JUMP,i20,122000,Düz,LPG & Benzin,Önden Çekiş,45.0,1396,100.0,3,0,12.611537753638338
+555000,8,Seat,Leon 1.6 CR TDI Style DSG,Leon,135890,Otomatik,Dizel,Önden Çekiş,55.0,1598,105.0,0,0,13.226723392728571
+265000,18,Renault,Megane Wagon 1.6 16V Privilege,Megane,262978,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,110.0,3,1,12.487485104968359
+365900,12,Kia,Venga 1.6 CRDi Panaroma,Venga,102898,Düz,Benzin,Önden Çekiş,48.0,1582,128.0,0,0,12.810115351007298
+350000,6,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,171370,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.765688433465597
+485000,3,Fiat,1.4 16V Fire Urban Plus 95 Ps Hatchback,Egea,11916,Düz,Benzin,Önden Çekiş,50.0,1368,94.0,0,0,13.091904169919621
+310000,18,Ford,1.6 VCT Trend 115 Ps MPV,C-Max,260436,Düz,Dizel,Önden Çekiş,55.0,1596,114.0,3,0,12.644327576461329
+399900,5,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,62676,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,3,0,12.89896979483491
+470000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,27243,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.060487973686241
+400000,2,Fiat,1.3 MultiJet Easy 95 Ps Combi,Doblo,94240,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.89921982609012
+510000,2,Fiat,1.3 MultiJet Maxi Safeline 95 Ps Combi,Doblo,24545,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,13.142166004700508
+625900,8,Skoda,1.6 TDI GreenTec Style DSG 110 Ps Hatchback,Octavia,148311,Otomatik,Dizel,Önden Çekiş,50.0,1598,108.0,1,3,13.346945892912792
+190000,4,Citroen,1.6 BlueHDI Feel 76 Ps Hatchback,C3,214927,Düz,Dizel,Önden Çekiş,42.0,1560,75.0,3,0,12.154779351142624
+662500,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,24274,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.403775836842515
+600000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,33129,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,2,1,13.304684934198283
+580000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,25352,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,2,2,13.270783382522602
+415000,4,Renault,0.9 TCe Joy 90 Ps Sedan,Symbol,39900,Düz,Benzin,Önden Çekiş,50.0,8980,89.0,0,0,12.936033799212835
+389900,4,Citroen,1.2 PureTech Live 83 Ps Sedan,C-Elysee,55109,Düz,Benzin,Önden Çekiş,50.0,1199,82.0,0,0,12.87364557497069
+449900,2,Fiat,1.4 Fire Easy Plus 95 Ps Sedan,Egea,48601,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.016780614829264
+470000,3,Fiat,1.4 16V Fire Street 95 Ps Hatchback,Egea,33500,Düz,Benzin,Önden Çekiş,50.0,1368,94.0,2,0,13.060487973686241
+380000,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,183500,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,1,0,12.84792653170257
+550000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,14327,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.217673557208654
+475000,7,Toyota,1.33 Life 99 Ps Sedan,Corolla,69215,Düz,Benzin,Önden Çekiş,55.0,1329,98.0,3,0,13.071070083016778
+290000,13,Hyundai,1.5 CRDI VGT Eco Otomatik 110 Ps Sedan,Accent Era,262000,Düz,Benzin,Önden Çekiş,45.0,1493,109.0,3,1,12.577636201962656
+320000,9,Hyundai,1.2 MPI Jump 84 Ps Hatchback,i20,167150,Düz,Benzin,Önden Çekiş,50.0,1248,83.0,4,4,12.676076274775909
+450000,2,Fiat,1.6 MultiJet Safeline 105 Ps Combi,Doblo,78291,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,0,0,13.017002861746503
+335000,6,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,227350,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,2,2,12.721885810807203
+345000,7,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,166603,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,1,12.751299696013497
+349900,13,Volkswagen,Polo 1.4 TSI Comfortline DSG,Polo,153129,Düz,Benzin,Önden Çekiş,45.0,1390,85.0,4,1,12.765402678355779
+239900,14,Hyundai,i10 1.1 TEAM,i10,95527,Düz,LPG & Benzin,Önden Çekiş,35.0,1086,66.0,4,2,12.387977448827787
+190000,18,Hyundai,GETZ 1.3 GLS,Getz,189318,Düz,Benzin,Önden Çekiş,45.0,1341,82.0,7,3,12.154779351142624
+300000,19,Volkswagen,Polo 1.4 Comfortline,Polo,225000,Düz,LPG & Benzin,Önden Çekiş,45.0,1390,75.0,0,0,12.611537753638338
+275000,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,112000,Düz,Dizel,Önden Çekiş,45.0,1248,90.0,2,1,12.524526376648708
+330000,8,Fiat,Linea 1.3 Multijet Pop,Linea,113000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.706847933442663
+330000,6,Fiat,Linea 1.3 Multijet Pop,Linea,132201,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,2,0,12.706847933442663
+385000,11,Renault,Symbol 1.5 dCi Authentique,Symbol,140528,Düz,Dizel,Önden Çekiş,50.0,1461,65.0,3,1,12.86099861326992
+370000,18,Opel,Corsa 1.3 CDTI Essentia,Corsa,225057,Düz,Benzin,Önden Çekiş,44.0,1248,70.0,5,0,12.821258284620408
+200000,18,Renault,Kangoo 1.5 dCi Authentique,Kangoo,271113,Düz,Dizel,Önden Çekiş,50.0,1461,70.0,3,0,12.206072645530174
+355000,12,Kia,Ceed 1.6 CRDi Cool,Ceed,262623,Düz,Dizel,Önden Çekiş,53.0,1582,90.0,2,4,12.779873068457553
+420000,14,Nissan,Qashqai 1.6 Tekna 4x2,Qashqai,111650,Düz,Benzin,Önden Çekiş,65.0,1598,115.0,0,0,12.948009990259552
+450000,2,Fiat,Doblo Combi Maxi 1.3 M.jet Safeline,Doblo,75660,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,0,13.017002861746503
+395000,11,Nissan,Micra 1.2 Platinum,Micra,38036,Düz,Benzin,Önden Çekiş,41.0,1198,80.0,0,0,12.886641043883259
+430000,2,Fiat,Doblo Combi 1.6 Multijet Safeline,Doblo,78128,Düz,Benzin,Önden Çekiş,60.0,1598,105.0,0,0,12.971540487669746
+270000,15,Fiat,Grande Punto 1.4 Fire Active,Grande Punto,123667,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,77.0,0,0,12.506177237980511
+250000,7,Fiat,Doblo Cargo Maxi 1.3 Multijet,Doblo,191000,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,10,0,12.429216196844383
+280000,13,Opel,Corsa 1.2 Essentia,Corsa,190000,Düz,LPG & Benzin,Önden Çekiş,45.0,1229,80.0,0,0,12.542544882151386
+250000,11,Dacia,Logan 1.5 DCI Ambiance,Logan,250000,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,7,4,12.429216196844383
+340000,17,Toyota,Avensis 1.6 Comfort,Avensis,222000,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,110.0,0,0,12.736700896592344
+350000,9,Renault,Clio 1.5 dCi Joy,Clio,130103,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,0,0,12.765688433465597
+285000,15,Honda,City 1.4 Comfort,City,171953,Düz,Benzin,Önden Çekiş,42.0,1339,83.0,0,0,12.560244459250788
+300000,9,Dacia,Logan MCV 1.5 dCi Ambiance,Logan,275500,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,4,0,12.611537753638338
+475000,4,Fiat,1.6 MultiJet Urban DCT 120 Ps Sedan,Egea,100000,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,0,0,13.071070083016778
+460000,5,Fiat,1.6 MultiJet Urban DCT 120 Ps Sedan,Egea,100000,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,5,0,13.038981768465277
+452000,7,Hyundai,1.2 MPI Jump 84 Ps Hatchback,i20,77200,Düz,Benzin,Önden Çekiş,50.0,1248,83.0,1,0,13.021437458814368
+430000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,20000,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.971540487669746
+532500,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,12002,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.185338176565716
+530000,3,Fiat,1.4 Fire Mirror 95 Ps Sedan,Egea,20894,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.180632285528304
+650000,7,Ford,1.5 TDCI Titanium 75 Ps Hatchback,Fiesta,156245,Düz,Dizel,Önden Çekiş,42.0,1498,74.0,2,1,13.38472764187182
+200000,18,Renault,1.2 16V Authentique 65 Ps Hatchback,Clio,227672,Düz,Benzin,Önden Çekiş,55.0,1149,64.0,10,0,12.206072645530174
+595000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,38000,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,2,13.296316684527767
+375000,13,Skoda,Octavia 1.6 CR TDI Ambiente DSG,Octavia,198000,Otomatik,Dizel,Önden Çekiş,55.0,1598,105.0,10,0,12.834681304952548
+400000,19,Volkswagen,1.6 FSI Sportline Tiptronic 115 Ps Hatchback,Golf,191350,Otomatik,Benzin,Önden Çekiş,55.0,1598,114.0,0,1,12.89921982609012
+320000,6,Fiat,1.3 MultiJet Maxi Easy ESP 90 Ps Combi,Doblo,350000,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,3,0,12.676076274775909
+505000,1,Fiat,1.4 Fire Easy Plus 95 Ps Sedan,Egea,15322,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.132313708257497
+430000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,36610,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,1,12.971540487669746
+405000,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,61970,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.911642346088676
+335000,7,Fiat,1.3 MultiJet Easy ESP 90 Ps Combi,Doblo,229261,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,1,0,12.721885810807203
+265000,13,Ford,Transit Connect GLX K210 S 1.8 TDCi,Transit Connect,246500,Düz,Dizel,Önden Çekiş,60.0,1753,90.0,0,0,12.487485104968359
+305000,17,Volkswagen,Jetta 1.6 Primeline,Jetta,245472,Düz,LPG & Benzin,Önden Çekiş,55.0,1595,102.0,6,0,12.628067055589549
+325000,13,Fiat,Punto EVO 1.4 8V Dynamic,Punto,112000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,0,1,12.691580461311874
+280000,12,Ford,Transit Connect GLX K210 S 1.8 TDCi,Transit Connect,215200,Düz,Dizel,Önden Çekiş,60.0,1753,110.0,0,0,12.542544882151386
+325000,11,Renault,Clio 1.2 16V Joy,Clio,92000,Düz,Benzin,Önden Çekiş,45.0,1149,75.0,0,2,12.691580461311874
+333000,5,Renault,Symbol 1.5 dCi Joy,Symbol,130229,Düz,Benzin,Önden Çekiş,50.0,1461,75.0,0,2,12.71589776896258
+450000,1,Fiat,1.4 Fire Easy Plus 95 Ps Sedan,Egea,11500,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,1,1,13.017002861746503
+439900,4,Dacia,0.9 Tce Techroad 90 Ps Hatchback,Sandero,20500,Düz,Benzin,Önden Çekiş,50.0,8980,88.0,0,0,12.99430270733681
+665000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,19000,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.407542319637992
+585000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,33100,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,1,13.279367126213993
+650000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,29366,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.38472764187182
+400000,6,Dacia,1.5 DCI Stepway Plus 90 Ps Kombi,Dokker,132010,Düz,Dizel,Önden Çekiş,50.0,1461,88.0,0,1,12.89921982609012
+425000,7,Fiat,1.3 MultiJet Urban 95 Ps Sedan,Egea,160379,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,0,12.959844447906553
+512500,5,Renault,1.5 DCI Icon EDC 90 Ps Hatchback,Clio,106516,Düz,Dizel,Önden Çekiş,45.0,1461,89.0,3,0,13.1470559899947
+467500,4,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,68781,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,0,13.055154627710879
+452500,4,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,86265,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,3,0,13.022543042122118
+550000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,17829,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.217673557208654
+550000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,19870,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.217673557208654
+590000,5,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,50616,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.287877815881902
+525000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,7550,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.17115354157376
+525000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,11000,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.17115354157376
+345000,6,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,188750,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,4,2,12.751299696013497
+452500,4,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,109861,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.022543042122118
+525000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,17650,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.17115354157376
+470000,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,9700,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,2,0,13.060487973686241
+470000,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,19870,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.060487973686241
+317000,9,Renault,Clio 1.5 dCi Joy,Clio,214726,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,0,0,12.666657052859417
+275000,10,Fiat,Linea 1.3 Multijet Pop,Linea,175000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,0,12.524526376648708
+390000,7,Peugeot,301 1.6 Hdi Active,301,116550,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,0,2,12.873902018105829
+254900,11,Renault,Symbol 1.2 16V Authentique,Symbol,216800,Düz,Benzin,Önden Çekiş,50.0,1149,75.0,5,0,12.448626590364206
+515900,11,Hyundai,ix35 1.6 GDI 4x2 Style Plus,ix35,172646,Düz,LPG & Benzin,Önden Çekiş,55.0,1591,135.0,2,2,13.15366822723274
+303900,9,Fiat,Linea 1.3 Multijet Pop,Linea,117500,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,0,12.624453978904885
+393000,12,Opel,Astra 1.4 T Cosmo,Astra,102000,Düz,Benzin,Önden Çekiş,56.0,1364,140.0,6,0,12.881564890851399
+234900,19,Hyundai,GETZ 1.3 GLS,Getz,83797,Düz,LPG & Benzin,Önden Çekiş,45.0,1341,82.0,2,0,12.366915170647005
+352000,5,Renault,Symbol 1.5 dCi Joy,Symbol,117000,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,1,0,12.771386454580234
+335000,5,Renault,Symbol 1.5 dCi Joy,Symbol,145447,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,0,0,12.721885810807203
+555000,2,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,19658,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.226723392728571
+335000,6,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,198000,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.721885810807203
+580000,3,Renault,1.0 TCe Touch X-Tronic 100 Ps Hatchback,Clio,21266,Otomatik,Benzin,Önden Çekiş,42.0,9990,98.0,0,0,13.270783382522602
+395000,4,Renault,1.5 DCI Exclusive 90 Ps Combi,Kangoo Multix,108293,Düz,Dizel,Önden Çekiş,60.0,1461,89.0,1,1,12.886641043883259
+640000,2,Dacia,1.5 BlueDCI 4x4 Comfort 115 Ps SUV,Duster,56338,Düz,Dizel,4x4,50.0,1461,113.0,0,0,13.369223455335854
+465000,2,Renault,1.5 BlueDCI Touch 95 Ps Combi,Kangoo Multix,63785,Düz,Dizel,Önden Çekiş,60.0,1461,94.0,0,0,13.049792684569493
+410000,3,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,70000,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,2,0,12.92391243868049
+450000,8,Citroen,Berlingo 1.6 HDi Selection,Berlingo,126642,Düz,Dizel,Önden Çekiş,60.0,1560,115.0,2,0,13.017002861746503
+275000,11,Hyundai,i20 TROY 1.4 CVVT TEAM,i20,172294,Düz,Benzin,Önden Çekiş,45.0,1248,100.0,5,1,12.524526376648708
+299000,8,Fiat,Linea 1.3 Multijet Pop,Linea,122669,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.608198852372823
+650000,4,Hyundai,1.6 MPI Style 127 Ps Sedan,Elantra,35289,Düz,LPG & Benzin,Önden Çekiş,50.0,1591,126.0,0,0,13.38472764187182
+1299000,3,Volkswagen,1.5 TSI ACT Elegance DSG 150 Ps SUV,Tiguan,44270,Otomatik,Benzin,Önden Çekiş,58.0,1498,148.0,0,0,14.077105295652737
+595000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,42500,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,1,13.296316684527767
+190000,13,Hyundai,Getz 1.5 VGT 4 HY KLM ABS SR,Getz,250000,Düz,Dizel,Önden Çekiş,45.0,1493,110.0,7,0,12.154779351142624
+400000,6,Fiat,Punto 1.4 Pop S-S,Punto,83133,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,2,0,12.89921982609012
+435000,3,Renault,Kangoo Multix 1.5 dCi Extreme,Kangoo,50137,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,2,0,12.983101310070822
+355000,8,Renault,Clio 1.2 16V Joy,Clio,116000,Düz,Benzin,Önden Çekiş,45.0,1149,75.0,0,2,12.779873068457553
+625000,5,Fiat,1.6 MultiJet Cross Plus DCT 120 Ps Crossover,500 X,36000,Otomatik,Dizel,Önden Çekiş,48.0,1598,118.0,0,1,13.345506928718539
+280000,14,Chevrolet,1.6 LS Plus Otomatik 113 Ps Sedan,Cruze,181000,Otomatik,LPG & Benzin,Önden Çekiş,60.0,1598,111.0,0,2,12.542544882151386
+375000,14,Toyota,Yaris 1.33 Terra,Yaris,61627,Otomatik,Benzin,Önden Çekiş,42.0,1329,101.0,0,0,12.834681304952548
+415000,4,Fiat,1.3 MultiJet Safeline 95 Ps Combi,Doblo,80000,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,2,12.936033799212835
+382000,6,Fiat,Punto 1.4 Pop S-S,Punto,74000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,0,0,12.853175887588712
+350000,9,Renault,Fluence 1.5 dCi Joy EDC,Fluence,249000,Otomatik,Dizel,Önden Çekiş,60.0,1461,110.0,0,0,12.765688433465597
+661000,3,Opel,1.4 Turbo Edition Plus 140 Ps Sedan,Astra,58512,Düz,Benzin,Önden Çekiş,56.0,1364,138.0,0,0,13.401509118833824
+620000,7,Opel,1.6 CDTI Sport Otomatik 136 Ps Sedan,Astra,93520,Otomatik,Dizel,Önden Çekiş,56.0,1598,134.0,0,0,13.337474757021274
+939000,3,Opel,1.2 EcoTEC Enjoy Skyline Otomatik 130 Ps SUV,Grandland X,28633,Düz,Benzin,Önden Çekiş,53.0,1199,128.0,0,0,13.7525707581904
+935000,3,Opel,1.2 EcoTEC Enjoy Skyline Otomatik 130 Ps SUV,Grandland X,29364,Otomatik,Benzin,Önden Çekiş,53.0,1199,128.0,0,0,13.748301808270824
+887000,3,Opel,1.5 D EcoTEC Enjoy 130 Ps SUV,Grandland X,34751,Otomatik,Dizel,Önden Çekiş,53.0,1499,128.0,0,0,13.695600261291716
+668000,5,Dacia,1.5 DCI 4x4 Prestige 110 Ps SUV,Duster,99196,Düz,Dizel,4x4,50.0,1461,108.0,0,0,13.412043452518782
+427000,7,Dacia,Lodgy 1.5 dCi Laureate,Lodgy,100883,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,0,0,12.96453929221076
+746000,3,Citroen,1.5 BlueHDI Feel EAT6 122 Ps AirCross,C3,29610,Otomatik,Dizel,Önden Çekiş,45.0,1499,120.0,0,0,13.522480879185897
+379000,9,Hyundai,1.2 MPI Style 84 Ps Hatchback,i20,108550,Düz,Benzin,Önden Çekiş,50.0,1248,83.0,2,4,12.845291484064564
+600000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,40376,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,1,0,13.304684934198283
+280000,9,Renault,Kangoo Multix 1.5 dCi Touch,Kangoo,136004,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,0,0,12.542544882151386
+485000,5,Renault,1.5 DCI Touch 90 Ps Hatchback,Clio,104504,Düz,Dizel,Önden Çekiş,45.0,1461,89.0,1,1,13.091904169919621
+425000,6,Fiat,1.6 MultiJet Lounge DCT 120 Ps Sedan,Egea,166653,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,1,1,12.959844447906553
+265000,13,Dacia,Sandero 1.4 Ambiance,Sandero,101613,Düz,LPG & Benzin,Önden Çekiş,50.0,1390,75.0,2,0,12.487485104968359
+339500,11,Ford,1.4 TDCI Titanium X 70 Ps Hatchback,Fiesta,152763,Düz,Dizel,Önden Çekiş,45.0,1398,69.0,0,1,12.735229225980888
+653000,7,Opel,1.6 CDTI Excellence Otomatik 136 Ps Hatchback,Astra,181368,Otomatik,Dizel,Önden Çekiş,52.0,1598,134.0,0,0,13.389332408258568
+440000,2,Fiat,1.3 MultiJet Maxi Easy 95 Ps Combi,Doblo,56782,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.994530005894443
+315000,15,Opel,Astra HB 1.3 CDTI Enjoy,Astra,172471,Düz,Dizel,Önden Çekiş,52.0,1248,90.0,3,0,12.66032791780777
+808000,5,Honda,1.6 i-VTEC ECO Executive Otomatik 125 Ps Sedan,Civic,52791,Otomatik,LPG & Benzin,Önden Çekiş,47.0,1597,123.0,0,0,13.602317337503232
+395000,7,Peugeot,1.2 PureTech Access 83 Ps Hatchback,208,30730,Düz,Benzin,Önden Çekiş,50.0,1199,82.0,0,0,12.886641043883259
+986000,4,Peugeot,1.5 BlueHDI Active Life Sky Pack EAT6 132 Ps Cross,3008,52777,Otomatik,Dizel,Önden Çekiş,53.0,1499,130.0,0,0,13.801411633584772
+1032000,4,Peugeot,1.5 BlueHDI Allure Selection EAT6 132 Ps Crossover,3008,69235,Otomatik,Dizel,Önden Çekiş,53.0,1499,130.0,0,0,13.847009225023646
+981000,4,Peugeot,1.5 BlueHDI Active Life Sky Pack EAT6 132 Ps Cross,3008,50138,Otomatik,Dizel,Önden Çekiş,53.0,1499,130.0,0,0,13.7963277385475
+406000,5,Peugeot,1.6 BlueHDI Active 102 Ps Sedan,301,80634,Düz,Dizel,Önden Çekiş,50.0,1560,100.0,0,0,12.91410843858387
+453000,3,Peugeot,1.5 BlueHDI Active 102 Ps Sedan,301,63351,Düz,Dizel,Önden Çekiş,50.0,1499,100.0,0,0,13.023647404465171
+642000,3,Peugeot,1.5 BlueHDI Allure 132 Ps Combi,Rifter,41011,Düz,Dizel,Önden Çekiş,50.0,1499,130.0,0,0,13.372343582672098
+395000,4,Renault,0.9 TCe Joy 90 Ps Hatchback,Clio,22727,Düz,Benzin,Önden Çekiş,45.0,8980,89.0,0,0,12.886641043883259
+242000,12,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,321000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,12.396693005138824
+225000,12,Renault,Symbol 1.5 dCi Expression,Symbol,259838,Düz,Dizel,Önden Çekiş,50.0,1461,65.0,2,3,12.323855681186558
+765000,3,Renault,1.5 Blue DCI Icon EDC 115 Ps Sedan,Megane,99700,Otomatik,Dizel,Önden Çekiş,49.0,1461,113.0,0,0,13.547631112808673
+765000,3,Renault,1.5 Blue DCI Icon EDC 115 Ps Sedan,Megane,87000,Otomatik,Dizel,Önden Çekiş,49.0,1461,113.0,2,0,13.547631112808673
+1052000,3,Citroen,1.5 BlueHDI Shine EAT8 130 Ps SUV,C5,44461,Otomatik,Dizel,Önden Çekiş,53.0,1499,128.0,0,0,13.866203672279791
+966000,3,Citroen,1.5 BlueHDI Feel EAT6 130 Ps SUV,C5,36046,Otomatik,Dizel,Önden Çekiş,53.0,1499,128.0,0,0,13.780919113194654
+998000,3,Citroen,1.5 BlueHDI Feel Adventure EAT6 130 Ps SUV,C5,38506,Otomatik,Dizel,Önden Çekiş,53.0,1499,128.0,0,0,13.813508555293602
+1091000,3,Citroen,1.5 BlueHDI Shine EAT8 130 Ps SUV,C5,57530,Otomatik,Dizel,Önden Çekiş,53.0,1499,128.0,0,0,13.902605264815207
+452000,7,Citroen,1.6 BlueHDI Shine 102 Ps Hatchback,C3,134169,Düz,Dizel,Önden Çekiş,42.0,1560,100.0,0,0,13.021437458814368
+215000,17,Opel,1.2 Twinport Essentia Easytronic 80 Ps Hatchback,Corsa,234234,Otomatik,Benzin,Önden Çekiş,44.0,1229,79.0,6,2,12.2783933071098
+200000,16,Renault,Symbol 1.4 8V Authentique,Symbol,90289,Düz,LPG & Benzin,Önden Çekiş,50.0,1390,75.0,3,5,12.206072645530174
+350000,12,Fiat,Doblo Combi 1.3 Multijet Premio,Doblo,200194,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,0,12.765688433465597
+350000,12,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,164000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,3,0,12.765688433465597
+410000,11,Kia,Sportage 1.6 GSL Plus,Sportage,190000,Düz,Benzin,Önden Çekiş,58.0,1591,135.0,0,2,12.92391243868049
+189950,15,Chevrolet,Aveo 1.2 SE,Aveo,296000,Düz,LPG & Benzin,Önden Çekiş,45.0,1150,72.0,2,2,12.154516158615772
+290900,10,Lancia,Ypsilon 0.9 TwinAir Start-Stop Gold Otomatik,Ypsilon,156880,Otomatik,Benzin,Önden Çekiş,40.0,8750,85.0,3,0,12.580734844483294
+375000,12,Citroen,C3 Picasso 1.6 HDi SX,C3 Picasso,155620,Düz,Dizel,Önden Çekiş,50.0,1560,90.0,2,0,12.834681304952548
+285000,8,Fiat,Linea 1.3 Multijet Actual Plus GSR,Linea,162000,Düz,Benzin,Önden Çekiş,45.0,1248,95.0,0,0,12.560244459250788
+310000,12,Ford,Fiesta 1.4 TDCi Titanium,Fiesta,171000,Düz,Dizel,Önden Çekiş,45.0,1398,68.0,6,0,12.644327576461329
+299900,6,Fiat,1.3 MultiJet Easy ESP 90 Ps Combi,Doblo,179147,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,4,0,12.6112043647371
+560000,5,Opel,1.4 Enjoy Otomatik 90 Ps Hatchback,Corsa,33200,Otomatik,Benzin,Önden Çekiş,45.0,1398,89.0,0,0,13.235692062711331
+400000,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,53000,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.89921982609012
+285000,14,Opel,Astra Sedan 1.3 CDTI Enjoy Elegance,Astra,293306,Düz,Dizel,Önden Çekiş,52.0,1248,90.0,0,0,12.560244459250788
+320000,7,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,150000,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,7,3,12.676076274775909
+320000,7,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,150000,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,7,3,12.676076274775909
+325900,6,Fiat,1.6 MultiJet Safeline ESP 105 Ps Combi,Doblo,137838,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,3,0,12.694345864825653
+420000,6,Ford,1.5 TDCI SWB Deluxe 100 Ps Kombi,Tourneo Connect,183399,Düz,Dizel,Önden Çekiş,60.0,1498,99.0,1,0,12.948009990259552
+520000,3,Fiat,1.6 MultiJet 20.Yıl Ozel Seri 120 Ps Combi,Doblo,64271,Düz,Benzin,Önden Çekiş,60.0,1598,118.0,0,0,13.16158409055761
+700000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,49271,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,4,0,13.458835614025542
+635000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,47178,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.36138027787483
+700000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,35705,Düz,Dizel,Önden Çekiş,41.0,1499,130.0,4,0,13.458835614025542
+660000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,54777,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.399995114002609
+660000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,47251,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.399995114002609
+660000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,47635,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.399995114002609
+640000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,33752,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.369223455335854
+658000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,34254,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.396960210307455
+658000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,44404,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.396960210307455
+658000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,35075,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.396960210307455
+225000,18,Opel,Astra Wagon 1.6 Elegance,Astra,264386,Düz,LPG & Benzin,Önden Çekiş,52.0,1598,105.0,6,0,12.323855681186558
+700000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,42857,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.458835614025542
+675000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,42766,Düz,Benzin,Önden Çekiş,41.0,1499,130.0,0,0,13.422467969854667
+658000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,41803,Düz,Benzin,Önden Çekiş,41.0,1499,130.0,0,0,13.396960210307455
+649000,2,Peugeot,1.5 BlueHDI Active EAT8 132 Ps Hatchback,208,18540,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,1,0,13.383187995686226
+370000,9,Opel,Corsa 1.3 CDTI Enjoy Start-Stop,Corsa,92176,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,2,0,12.821258284620408
+400000,10,Seat,Toledo 1.4 TSI Style DSG,Toledo,107625,Düz,Benzin,Önden Çekiş,55.0,1390,122.0,0,0,12.89921982609012
+575000,3,Renault,1.0 TCe Icon 100 Ps Hatchback,Clio,35030,Otomatik,Benzin,Önden Çekiş,42.0,9990,98.0,0,2,13.262125319779487
+259900,9,Renault,Kangoo Express Maxi Combi 1.5 dCi,Kangoo,355000,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,2,0,12.468052220629582
+310000,8,Renault,Kangoo Multix 1.5 dCi Joy,Kangoo,292875,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,0,0,12.644327576461329
+350000,5,Renault,Kangoo Multix 1.5 dCi Joy,Kangoo,179000,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,0,1,12.765688433465597
+325000,6,Renault,1.5 dCi Touch 90 Ps Kombi,Kangoo,225152,Düz,Dizel,Önden Çekiş,60.0,1461,89.0,2,2,12.691580461311874
+375000,6,Renault,1.5 dCi Touch 90 Ps Kombi,Kangoo,167035,Düz,Dizel,Önden Çekiş,60.0,1461,89.0,0,0,12.834681304952548
+355000,6,Renault,1.5 dCi Touch 90 Ps Kombi,Kangoo,186015,Düz,Dizel,Önden Çekiş,60.0,1461,89.0,0,0,12.779873068457553
+360000,8,Skoda,1.2 TSI GreenTec Ambition 90 Ps Hatchback,Fabia,75559,Düz,Benzin,Önden Çekiş,45.0,1197,89.0,0,0,12.793859310432293
+360000,6,Fiat,1.3 MultiJet Premio Plus Gri-Black 90 Ps Combi,Doblo,102628,Düz,Benzin,Önden Çekiş,60.0,1248,89.0,4,1,12.793859310432293
+345000,8,Fiat,1.3 MultiJet Urban 95 Ps Sedan,Egea,158448,Düz,Benzin,Önden Çekiş,45.0,1248,94.0,0,0,12.751299696013497
+300000,19,Opel,Meriva 1.6 16V Cosmo,Meriva,167391,Düz,Benzin,Önden Çekiş,53.0,1598,100.0,1,3,12.611537753638338
+500000,11,Renault,Megane Sport Tourer 1.5 dCi Privilege,Megane,167625,Düz,Dizel,Önden Çekiş,60.0,1461,110.0,3,2,13.122363377404328
+325900,10,Chevrolet,"Aveo 1.3 D LS (2013,5)",Aveo,130628,Düz,Dizel,Önden Çekiş,46.0,1248,75.0,1,1,12.694345864825653
+205000,14,Fiat,Bravo 1.6 Mjet Emotion,Bravo,285030,Düz,Dizel,Önden Çekiş,58.0,1598,120.0,3,0,12.230765258120545
+495000,8,Nissan,Juke 1.5 dCi Sky Pack,Juke,151411,Düz,Dizel,Önden Çekiş,46.0,1461,110.0,0,0,13.112313041550827
+325000,5,Renault,Kangoo Multix 1.5 dCi Touch,Kangoo,172373,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,0,0,12.691580461311874
+238000,8,Renault,Kangoo Multix 1.5 dCi Touch,Kangoo,349938,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,6,1,12.380025952653611
+450000,6,Toyota,1.33 Life 99 Ps Sedan,Corolla,44000,Düz,LPG & Benzin,Önden Çekiş,55.0,1329,98.0,0,0,13.017002861746503
+315000,6,Fiat,1.3 MultiJet Safeline ESP 90 Ps Combi,Doblo,110000,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,1,0,12.66032791780777
+330000,6,Renault,1.5 DCI Joy 75 Ps Hatchback,Clio,138731,Düz,Benzin,Önden Çekiş,45.0,1461,74.0,0,0,12.706847933442663
+359500,6,Ford,1.5 TDCI Titanium X 75 Ps Hatchback,Fiesta,296541,Düz,Dizel,Önden Çekiş,42.0,1498,74.0,0,0,12.79246945614324
+372000,3,Fiat,Doblo Combi 1.6 Multijet Easy,Doblo,88000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,1,1,12.826649133255284
+292500,11,Chevrolet,Aveo 1.4 LT,Aveo,100243,Düz,LPG & Benzin,Önden Çekiş,46.0,1398,100.0,4,0,12.58621994565405
+275000,10,Citroen,C- Elysee 1.6 HDİ Exclusive,C- Elysee,187500,Düz,Dizel,Önden Çekiş,48.0,1560,92.0,3,0,12.524526376648708
+300000,10,Ford,Fiesta 1.25 Trend,Fiesta,70764,Düz,Benzin,Önden Çekiş,42.0,1242,82.0,2,1,12.611537753638338
+255000,14,Opel,Corsa 1.2 Essentia,Corsa,210000,Düz,Benzin,Önden Çekiş,45.0,1229,80.0,0,0,12.449018824140563
+250000,12,Peugeot,206+ 1.4 HDi Comfort,206+,206520,Düz,Dizel,Önden Çekiş,50.0,1398,70.0,1,2,12.429216196844383
+255000,19,Ford,Focus 1.6 Comfort,Focus,239490,Otomatik,Dizel,Önden Çekiş,55.0,1596,100.0,8,1,12.449018824140563
+254900,12,Hyundai,i20 Troy 1.2 DOHC Mode,i20,243948,Düz,Benzin,Önden Çekiş,45.0,1248,78.0,2,2,12.448626590364206
+180000,14,Peugeot,206 Sedan 1.4 Executive,206,157443,Düz,LPG & Benzin,Önden Çekiş,50.0,1360,75.0,0,2,12.100712129872347
+289900,12,Dacia,Sandero 1.5 DCI Stepway,Sandero,175574,Düz,Dizel,Önden Çekiş,50.0,1461,70.0,0,0,12.577291314909747
+350000,15,Renault,Clio 1.2 16V Expression,Clio,138170,Düz,Benzin,Önden Çekiş,55.0,1149,75.0,6,0,12.765688433465597
+290000,17,Hyundai,Accent Era 1.5 CRDi-VGT Select,Accent,130733,Düz,Dizel,Önden Çekiş,45.0,1493,110.0,0,0,12.577636201962656
+395000,14,Ford,Mondeo 1.6 Titanium,Mondeo,138000,Düz,Benzin,Önden Çekiş,70.0,1596,125.0,0,0,12.886641043883259
+535000,10,Honda,Civic 1.6 Elegance Smart Eco Otomatik,Civic,143650,Otomatik,Benzin,Önden Çekiş,50.0,1595,125.0,1,0,13.190022025878143
+329900,10,Volkswagen,Polo 1.2 TDI Trendline,Polo,178611,Düz,Dizel,Önden Çekiş,45.0,1199,75.0,2,0,12.706544857216672
+295000,8,Renault,Symbol 1.5 dCi Joy,Symbol,180598,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,4,1,12.594730635321957
+300000,12,Ford,Fiesta 1.4 TDCi Trend,Fiesta,214000,Düz,Dizel,Önden Çekiş,45.0,1398,70.0,2,0,12.611537753638338
+270000,10,Fiat,Linea 1.3 Multijet Pop,Linea,228000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.506177237980511
+280000,9,Fiat,Linea 1.3 Multijet Pop,Linea,255000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.542544882151386
+300000,11,Fiat,Doblo Combi 1.6 M.jet Premio,Doblo,340765,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,4,8,12.611537753638338
+360000,12,Fiat,Doblo Combi 1.3 Multijet Elegance,Doblo,174380,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,1,0,12.793859310432293
+215000,10,Renault,Clio 1.5 dCi Joy,Clio,302028,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,1,2,12.2783933071098
+250000,18,Hyundai,GETZ 1.3 GLS,Getz,182000,Düz,LPG & Benzin,Önden Çekiş,45.0,1341,82.0,8,0,12.429216196844383
+239500,9,Fiat,Linea 1.3 Multijet Active Plus,Linea,177063,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,2,1,12.386308695833106
+290000,9,Fiat,Linea 1.3 Multijet Active Plus,Linea,194000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.577636201962656
+287750,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,184700,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,6,5,12.56984732658413
+255000,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,176381,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,0,12.449018824140563
+230000,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,208714,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,1,12.345834587905333
+270000,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,112890,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,1,12.506177237980511
+185000,10,Fiat,Linea 1.3 Multijet Actual,Linea,222796,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,2,12.128111104060462
+275000,14,Toyota,COROLLA SEDAN 1.4 D-4D COMFORT,Corolla,238554,Düz,Dizel,Önden Çekiş,55.0,1364,90.0,1,1,12.524526376648708
+330000,6,Renault,Clio 1.5 dCi Joy,Clio,197800,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,0,1,12.706847933442663
+285000,11,Fiat,Punto 1.4 Easy S-S,Punto,152036,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,77.0,2,2,12.560244459250788
+300000,9,Fiat,Doblo Combi 1.3 M.jet Premio Black,Doblo,177169,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,0,12.611537753638338
+250000,11,Fiat,Doblo Combi 1.3 Multijet Dynamic,Doblo,276146,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,1,1,12.429216196844383
+239900,10,Fiat,Linea 1.3 Multijet Urban,Linea,97600,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,1,12.387977448827787
+270000,11,Fiat,Linea 1.3 Multijet Pop,Linea,118082,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,0,12.506177237980511
+311500,11,Ford,Fiesta 1.4 TDCi Trend,Fiesta,151533,Düz,Dizel,Önden Çekiş,45.0,1398,70.0,3,0,12.649154617209645
+267750,10,Fiat,Doblo Combi 1.3 M.jet Easy,Doblo,283942,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,6,4,12.497808988309995
+335000,6,Renault,Symbol 1.5 dCi Joy,Symbol,238563,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,1,0,12.721885810807203
+275000,8,Renault,Symbol 1.5 dCi Joy,Symbol,173510,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,2,0,12.524526376648708
+365000,6,Renault,Symbol 1.5 dCi Joy,Symbol,136120,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,0,0,12.80765263256463
+390000,6,Renault,Symbol 1.5 dCi Joy,Symbol,204904,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,2,0,12.873902018105829
+335000,6,Renault,Symbol 1.5 dCi Joy,Symbol,233896,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,2,2,12.721885810807203
+350000,6,Renault,Symbol 1.5 dCi Joy,Symbol,204810,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,0,0,12.765688433465597
+345000,6,Renault,Symbol 1.5 dCi Joy,Symbol,221734,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,2,0,12.751299696013497
+215000,8,Renault,Symbol 1.5 dCi Joy,Symbol,341392,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,3,3,12.2783933071098
+340000,8,Renault,Kangoo Multix 1.5 dCi Extreme,Kangoo,181582,Düz,Dizel,Önden Çekiş,60.0,1461,110.0,2,2,12.736700896592344
+375000,5,Fiat,Doblo Combi 1.3 M.jet Safeline,Doblo,102201,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,1,0,12.834681304952548
+240000,14,Ford,Focus 1.6 TDCi Titanium,Focus,177116,Düz,Dizel,Önden Çekiş,55.0,1560,109.0,8,3,12.388394202324129
+397750,11,Volkswagen,Polo 1.6 TDI Comfortline,Polo,137342,Düz,Dizel,Önden Çekiş,45.0,1598,90.0,6,0,12.893578946200034
+280000,9,Fiat,Linea 1.4 Fire Pop,Linea,135000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,0,0,12.542544882151386
+290000,12,Toyota,Yaris 1.4 D-4D Terra Sporty,Yaris,182607,Düz,Dizel,Önden Çekiş,42.0,1364,90.0,3,1,12.577636201962656
+250000,14,Ford,Fiesta 1.4i Comfort ABS,Fiesta,258349,Düz,Benzin,Önden Çekiş,45.0,1388,80.0,0,0,12.429216196844383
+780000,3,Jeep,Renegade 1.6L M.jet Limited 4x2,Renegade,23595,Otomatik,Dizel,Önden Çekiş,48.0,1598,120.0,0,0,13.567049198665774
+425000,11,Ford,Focus 1.6 Ti-VCT Titanium Powershift,Focus,104437,Otomatik,Benzin,Önden Çekiş,55.0,1596,125.0,2,2,12.959844447906553
+380000,8,Fiat,Doblo Combi 1.6 Multijet Safeline,Doblo,83000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,12.84792653170257
+375000,5,Fiat,Doblo Combi 1.6 M.jet Premio Plus,Doblo,114800,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,3,12.834681304952548
+480000,10,Renault,Captur 1.5 dCi Icon Start-Stop,Captur,138432,Düz,Dizel,Önden Çekiş,45.0,1461,90.0,0,0,13.081541382884074
+355000,11,Citroen,Berlingo 1.6 HDi Combi SX,Berlingo,188681,Düz,Dizel,Önden Çekiş,60.0,1560,110.0,2,1,12.779873068457553
+350000,16,Peugeot,207 1.4 HDi Trendy,207,188968,Düz,Dizel,Önden Çekiş,50.0,1398,70.0,1,0,12.765688433465597
+195000,18,Renault,Symbol 1.4 Alize,Symbol,200842,Düz,LPG & Benzin,Önden Çekiş,50.0,1390,98.0,1,2,12.180754837545884
+327000,10,Renault,Clio Turbo Icon Stop-Start,Clio,133572,Düz,Benzin,Önden Çekiş,45.0,8980,90.0,3,3,12.697715449879391
+190000,18,Fiat,Albea 1.3 Multijet Active,Albea,202565,Düz,Dizel,Önden Çekiş,48.0,1248,70.0,11,0,12.154779351142624
+278000,12,Ford,Fiesta 1.4 Titanium,Fiesta,202217,Düz,Dizel,Önden Çekiş,42.0,1388,96.0,1,1,12.535376392672774
+235000,12,Fiat,Linea 1.3 Multijet Dynamic Plus Dualogic,Linea,175581,Düz,Dizel,Önden Çekiş,45.0,1248,90.0,2,3,12.367340793126296
+325000,7,Peugeot,301 1.6 Hdi Active,301,184242,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,2,2,12.691580461311874
+265000,7,Peugeot,301 1.6 Hdi Active,301,174575,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,1,1,12.487485104968359
+288000,6,Peugeot,301 1.6 Hdi Active,301,160391,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,0,2,12.570715759118084
+365000,7,Renault,Fluence 1.5 dCi Touch,Fluence,178690,Otomatik,Dizel,Önden Çekiş,60.0,1461,110.0,4,1,12.80765263256463
+195000,10,Ford,Transit Connect K210 S 1.8 TDCi,Transit Connect,158000,Düz,Dizel,Önden Çekiş,60.0,1753,90.0,0,0,12.180754837545884
+320000,8,Fiat,1.3 MultiJet Premio Plus 90 Ps Combi,Doblo,167309,Düz,Benzin,Önden Çekiş,60.0,1248,89.0,0,2,12.676076274775909
+325000,12,Chevrolet,Cruze 1.6 16V WTCC Edition,Cruze,192059,Düz,LPG & Benzin,Önden Çekiş,60.0,1598,124.0,0,0,12.691580461311874
+495000,2,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,29432,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.112313041550827
+385000,6,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,87930,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.86099861326992
+420000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,11356,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.948009990259552
+285000,18,Chevrolet,Lacetti Sedan 1.4 SE,Lacetti,170491,Düz,Benzin,Önden Çekiş,60.0,1399,95.0,2,4,12.560244459250788
+450000,3,Fiat,Doblo Cargo Maxi XL 1.6 Multijet Plus Pack,Doblo,59034,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,13.017002861746503
+448000,6,Fiat,1.6 MultiJet Urban 120 Ps Sedan,Egea,134715,Düz,Dizel,Önden Çekiş,45.0,1598,118.0,0,0,13.012548511397123
+430000,9,Hyundai,1.4 D-CVVT Mode Plus 100 Ps Sedan,Accent Blue,100906,Düz,LPG & Benzin,Önden Çekiş,43.0,1368,99.0,0,0,12.971540487669746
+848000,5,Volkswagen,1.6 TDI BMT Impression DSG 120 Ps Sedan,Passat,97951,Otomatik,Dizel,Önden Çekiş,59.0,1598,118.0,0,0,13.65063591477404
+380000,3,Fiat,1.3 MultiJet Easy 95 Ps Combi,Doblo,130057,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,2,12.84792653170257
+450000,3,Fiat,1.4 Fire Urban Plus 95 Ps Sedan,Egea,17950,Düz,Dizel,Önden Çekiş,45.0,1368,94.0,0,0,13.017002861746503
+475000,2,Fiat,1.4 Fire Urban Plus 95 Ps Sedan,Egea,16210,Düz,Dizel,Önden Çekiş,45.0,1368,94.0,0,0,13.071070083016778
+450000,7,Peugeot,1.2 PureTech Active ETG5 83 Ps Hatchback,208,22500,Otomatik,Benzin,Önden Çekiş,50.0,1199,82.0,4,3,13.017002861746503
+440000,3,Fiat,1.6 MultiJet Premio Plus 120 Ps Combi,Doblo,75548,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,12.994530005894443
+235000,11,Ford,1.8 TDCI SWB GLX 90 Ps Kombi,Tourneo Connect,278000,Düz,Dizel,Önden Çekiş,60.0,1753,89.0,0,0,12.367340793126296
+390000,8,Kia,1.25 CVVT Comfort 85 Ps Hatchback,Rio,122000,Düz,LPG & Benzin,Önden Çekiş,43.0,1248,84.0,0,0,12.873902018105829
+445000,1,Fiat,1.6 MultiJet Easy 120 Ps Combi,Doblo,19850,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.005829561148378
+350000,5,Fiat,1.6 MultiJet Easy 120 Ps Combi,Doblo,250750,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,12.765688433465597
+445000,1,Fiat,1.6 MultiJet Easy 120 Ps Combi,Doblo,20916,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.005829561148378
+325000,8,Citroen,1.6 HDI SX 93 Ps Kombivan,Berlingo,170497,Düz,Dizel,Önden Çekiş,60.0,1560,92.0,2,1,12.691580461311874
+590000,3,Dacia,1.5 BlueDCI 4x4 Prestige 115 Ps SUV,Duster,71000,Düz,Dizel,4x4,50.0,1461,113.0,0,0,13.287877815881902
+849900,1,Ford,1.5 Ti-VCT Trend X Otomatik 123 Ps Sedan,Focus,14186,Otomatik,Benzin,Önden Çekiş,52.0,1497,121.0,0,0,13.652873974486718
+725900,1,Renault,1.3 TCe Joy Comfort EDC 140 Ps Sedan,Megane,14386,Otomatik,Benzin,Önden Çekiş,50.0,1332,138.0,0,0,13.495167543272933
+290000,14,Renault,Clio 1.4 16V Expression,Clio,126000,Düz,LPG & Benzin,Önden Çekiş,55.0,1390,100.0,0,0,12.577636201962656
+249900,17,Renault,Megane HB 1.5 dCi Dynamique,Megane,191289,Düz,Dizel,Önden Çekiş,60.0,1461,80.0,4,2,12.428816116823043
+193000,19,Hyundai,1.5 CRDI GLS 82 Ps Sedan,Accent,189225,Düz,Dizel,Önden Çekiş,45.0,1493,80.0,0,3,12.170445467887022
+305000,11,Peugeot,1.6 HDI Business Line 93 Ps Hatchback,308,186511,Düz,Dizel,Önden Çekiş,60.0,1560,92.0,1,3,12.628067055589549
+415000,14,Volkswagen,Tiguan 2.0 TDI Sport-Style 4x4,Tiguan,167300,Düz,Dizel,4x4,64.0,1986,140.0,1,2,12.936033799212835
+350000,18,Renault,1.6 Sportway 115 Ps Sedan,Megane,172129,Düz,Benzin,Önden Çekiş,60.0,1598,114.0,1,2,12.765688433465597
+315750,14,Hyundai,1.4 Expo Gold Plus 97 Ps Sedan,Accent Era,135530,Düz,Benzin,Önden Çekiş,45.0,1399,95.0,1,2,12.662706040212738
+480000,5,Dacia,1.5 DCI Comfort 90 Ps SUV,Duster,133000,Düz,Dizel,Önden Çekiş,50.0,1461,89.0,0,0,13.081541382884074
+309900,9,Fiat,1.3 MultiJet Urban 75 Ps Hatchback,Punto,206676,Düz,Dizel,Önden Çekiş,45.0,1248,74.0,5,0,12.64400494377584
+220000,12,Peugeot,207 1.4 Trendy,207,244000,Düz,LPG & Benzin,Önden Çekiş,50.0,1360,75.0,0,0,12.301382825334498
+490000,6,Renault,1.6 16V Joy 115 Ps Hatchback,Megane,76208,Düz,Benzin,Önden Çekiş,47.0,1598,114.0,2,1,13.102160670086809
+370000,6,Fiat,1.6 MultiJet Safeline ESP 105 Ps Combi,Doblo,87000,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,0,0,12.821258284620408
+365000,5,Fiat,1.3 MultiJet Easy 95 Ps Combi,Doblo,140000,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.80765263256463
+500000,3,Fiat,1.6 MultiJet Premio 120 Ps Combi,Doblo,32902,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.122363377404328
+500000,10,Citroen,C4 1.6 e-HDi Exclusive MCP6,C4,137350,Otomatik,Dizel,Önden Çekiş,60.0,1560,115.0,6,5,13.122363377404328
+495900,2,Fiat,1.3 MultiJet Urban 95 Ps Sedan,Egea,105603,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.114129572477225
+395000,6,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,89191,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,3,0,12.886641043883259
+545000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,9422,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.208541073645382
+350000,9,Dacia,Logan MCV 1.5 dCi Ambiance,Logan,218548,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,4,4,12.765688433465597
+442000,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,6787,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,2,0,12.999065161059836
+411750,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,49598,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,4,0,12.928171648039887
+420000,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,26680,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.948009990259552
+399900,5,Fiat,1.4 16V Fire Easy Plus 95 Ps Hatchback,Egea,72000,Düz,Benzin,Önden Çekiş,50.0,1368,94.0,0,0,12.89896979483491
+375000,7,Dacia,Lodgy 1.5 dCi Laureate,Lodgy,163436,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,1,1,12.834681304952548
+205000,17,Ford,Transit Connect K210 S 1.8 TDdi Standart şasi,Transit Connect,163690,Düz,Dizel,Önden Çekiş,60.0,1753,75.0,1,1,12.230765258120545
+258000,10,Peugeot,301 1.6 Hdi Active,301,171622,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,2,0,12.460714863903755
+215000,15,Citroen,C4 1.6 HDi SX,C4,262626,Düz,Dizel,Önden Çekiş,60.0,1560,92.0,0,0,12.2783933071098
+390000,12,Dacia,Duster 1.5 dCi Laureate 4x2,Duster,168295,Düz,Dizel,Önden Çekiş,50.0,1461,85.0,3,3,12.873902018105829
+400000,11,Ford,Focus 1.6 Ti-VCT Style Powershift,Focus,147659,Otomatik,LPG & Benzin,Önden Çekiş,55.0,1596,125.0,1,1,12.89921982609012
+240000,14,Fiat,Albea Sole 1.4 Fire Dynamic,Albea,64569,Düz,Benzin,Önden Çekiş,48.0,1368,77.0,0,0,12.388394202324129
+301000,9,Renault,Fluence 1.6 Joy,Fluence,211575,Düz,Dizel,Önden Çekiş,60.0,1598,110.0,1,1,12.614865543731012
+259900,8,Peugeot,301 1.6 Hdi Allure,301,283252,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,4,4,12.468052220629582
+399900,5,Peugeot,301 1.6 Hdi Allure,301,109690,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,1,0,12.89896979483491
+290900,12,Ford,Focus 1.6 Collection,Focus,192420,Düz,Dizel,Önden Çekiş,55.0,1596,100.0,4,3,12.580734844483294
+260000,19,Ford,Focus 1.6 Collection,Focus,174787,Düz,Benzin,Önden Çekiş,55.0,1596,100.0,0,0,12.468436909997665
+245000,11,Dacia,Sandero 1.5 dCi Ambiance,Sandero,118201,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,0,1,12.409013489526863
+260000,15,Renault,Megane HB 1.5 dCi Extreme 2,Megane,201000,Düz,Dizel,Önden Çekiş,60.0,1461,80.0,0,0,12.468436909997665
+310000,14,Renault,Clio 1.2 16V Expression,Clio,90650,Düz,Benzin,Önden Çekiş,55.0,1149,75.0,0,0,12.644327576461329
+399900,8,Renault,Clio 1.2 16V Icon,Clio,61458,Düz,Benzin,Önden Çekiş,45.0,1149,75.0,2,1,12.89896979483491
+205000,15,Hyundai,Accent Era 1.5 CRDi-VGT Team,Accent,215014,Düz,Dizel,Önden Çekiş,45.0,1493,110.0,1,1,12.230765258120545
+300000,12,Nissan,Note 1.5 dCi Visia,Note,102926,Düz,Dizel,Önden Çekiş,46.0,1461,86.0,1,1,12.611537753638338
+250000,19,Toyota,Yaris 1.3 Sol Otomatik,Yaris,242000,Düz,LPG & Benzin,Önden Çekiş,45.0,1298,87.0,0,0,12.429216196844383
+218900,14,Fiat,Palio Sole 1.4 Fire Dynamic,Palio,122188,Düz,LPG & Benzin,Önden Çekiş,51.0,1368,77.0,1,1,12.296370283510955
+183000,22,Seat,Toledo TDi Signo,Toledo,320470,Düz,LPG & Benzin,Önden Çekiş,55.0,1896,90.0,9,1,12.117241431823558
+279750,12,Renault,Symbol 1.5 dCi Authentique,Symbol,162648,Düz,Dizel,Önden Çekiş,50.0,1461,65.0,3,3,12.541651626174172
+360000,8,Renault,Symbol 1.2 16V Joy,Symbol,66509,Düz,Benzin,Önden Çekiş,50.0,1149,75.0,0,0,12.793859310432293
+365000,10,Renault,Symbol 1.2 16V Joy,Symbol,71834,Düz,Benzin,Önden Çekiş,50.0,1149,75.0,4,3,12.80765263256463
+400000,7,Fiat,Punto 1.4 Pop S-S,Punto,100480,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,2,8,12.89921982609012
+370000,7,Fiat,Doblo Combi 1.3 M.jet Safeline,Doblo,198058,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,1,12.821258284620408
+255000,9,Renault,Symbol 1.5 dCi Joy,Symbol,178300,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,0,0,12.449018824140563
+345000,6,Renault,Symbol 1.5 dCi Joy,Symbol,213045,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,0,1,12.751299696013497
+370000,11,Ford,Fiesta 1.4 TDCi Trend,Fiesta,241939,Düz,Dizel,Önden Çekiş,45.0,1398,70.0,5,0,12.821258284620408
+360000,9,Renault,Clio 1.2 16V Joy,Clio,88153,Düz,Benzin,Önden Çekiş,45.0,1149,75.0,0,0,12.793859310432293
+297900,10,Renault,Clio 1.2 16V Joy,Clio,141255,Düz,Benzin,Önden Çekiş,45.0,1149,75.0,2,3,12.604513138701373
+325000,13,Toyota,COROLLA SEDAN 1.4 D-4D ELEGANT,Corolla,235589,Düz,Benzin,Önden Çekiş,55.0,1365,90.0,0,0,12.691580461311874
+299900,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,71285,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,5,12.6112043647371
+268000,9,Fiat,Linea 1.3 Multijet Active Plus,Linea,165100,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.498742259492994
+419000,3,Renault,0.9 TCe Joy 90 Ps Sedan,Symbol,26970,Düz,Benzin,Önden Çekiş,50.0,8980,89.0,0,0,12.945626198904275
+235000,19,Renault,1.4 Authentique 75 Ps Symbol,Clio,73000,Düz,LPG & Benzin,Önden Çekiş,50.0,1390,74.0,0,0,12.367340793126296
+459900,7,Dacia,1.5 DCI (7 Koltuk) Stepway 110 Ps MPV,Lodgy,73379,Düz,Dizel,Önden Çekiş,50.0,1461,108.0,0,0,13.038764353528014
+405900,6,Dacia,1.5 DCI Stepway Easy-R 90 Ps Hatchback,Sandero,118336,Otomatik,Dizel,Önden Çekiş,50.0,1461,88.0,3,0,12.91386210282699
+440000,6,Hyundai,1.2 MPI Elite 84 Ps Hatchback,i20,76294,Düz,Benzin,Önden Çekiş,50.0,1248,83.0,0,0,12.994530005894443
+457500,5,Hyundai,1.4 CRDI Style 90 Ps Hatchback,i20,33611,Düz,Dizel,Önden Çekiş,45.0,1396,89.0,1,5,13.033532163697712
+427000,3,Renault,1.0 SCe Joy 72 Ps Hatchback,Clio,37410,Düz,Benzin,Önden Çekiş,42.0,9990,71.0,0,1,12.96453929221076
+397000,6,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,66500,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,0,1,12.891691559669328
+417750,6,Renault,1.5 DCI Joy 75 Ps Hatchback,Clio,111569,Düz,Dizel,Önden Çekiş,45.0,1461,74.0,2,3,12.94263844645764
+600000,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,9893,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,8,4,13.304684934198283
+370000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,10000,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.821258284620408
+450000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,92472,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,4,0,13.017002861746503
+700000,4,Renault,1.5 DCI Touch 110 Ps Sedan,Megane,116389,Otomatik,Dizel,Önden Çekiş,49.0,1461,108.0,6,4,13.458835614025542
+280000,11,Fiat,Punto EVO 1.3 Mjet Dynamic Start-Stop,Punto,106567,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,1,2,12.542544882151386
+372000,9,Opel,Corsa 1.2 Twinport Essentia,Corsa,85704,Düz,Benzin,Önden Çekiş,45.0,1229,85.0,0,0,12.826649133255284
+450000,2,Fiat,Doblo Combi 1.3 M.jet Easy,Doblo,98820,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,6,6,13.017002861746503
+265000,10,Fiat,Linea 1.3 Multijet Pop,Linea,210000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.487485104968359
+355000,12,Ford,Focus 1.6 TDCi Trend X,Focus,134322,Düz,Dizel,Önden Çekiş,55.0,1560,90.0,4,2,12.779873068457553
+279900,8,Renault,Symbol 1.5 dCi Joy,Symbol,207755,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,2,4,12.542187675503545
+239900,14,Renault,Kangoo Multix 1.5 dCi Authentique,Kangoo,284332,Düz,Benzin,Önden Çekiş,60.0,1461,65.0,0,0,12.387977448827787
+259900,12,Fiat,Doblo Combi 1.6 Multijet Elegance,Doblo,272014,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,1,3,12.468052220629582
+387750,9,Ford,Fiesta 1.5 TDCi Trend,Fiesta,98579,Düz,Dizel,Önden Çekiş,42.0,1498,75.0,2,2,12.868116081038785
+325000,11,Volkswagen,Polo 1.2 TDI Trendline,Polo,130000,Düz,Dizel,Önden Çekiş,45.0,1199,75.0,1,0,12.691580461311874
+287750,11,Renault,Clio 1.5 dCi Authentique,Clio,189902,Düz,Dizel,Önden Çekiş,55.0,1461,65.0,8,2,12.56984732658413
+325000,12,Renault,Latitude Executive 1.5 dCi,Latitude,207264,Düz,Dizel,Önden Çekiş,66.0,1461,110.0,10,0,12.691580461311874
+352000,9,Dacia,Sandero 1.5 dCi Stepway,Sandero,84733,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,0,0,12.771386454580234
+315000,12,Opel,Astra Sedan 1.6 Enjoy,Astra,176492,Düz,LPG & Benzin,Önden Çekiş,52.0,1598,115.0,1,1,12.66032791780777
+352000,11,Renault,Clio 1.5 dCi Icon,Clio,164520,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,2,1,12.771386454580234
+290000,13,Opel,Astra 1.6 Edition,Astra,192998,Düz,Benzin,Önden Çekiş,56.0,1598,115.0,3,0,12.577636201962656
+250000,18,Volkswagen,Bora 1.6 Comfortline,Bora,257888,Düz,Benzin,Önden Çekiş,55.0,1595,105.0,0,0,12.429216196844383
+279900,9,Fiat,Doblo Combi 1.6 Multijet Safeline,Doblo,257800,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,3,1,12.542187675503545
+300000,15,Hyundai,Accent Era 1.4 Start,Accent,181000,Düz,Benzin,Önden Çekiş,45.0,1399,97.0,1,0,12.611537753638338
+415750,11,Volkswagen,Polo 1.4 TSI Comfortline,Polo,74769,Düz,Benzin,Önden Çekiş,45.0,1390,85.0,2,3,12.937839397055175
+270000,16,Fiat,Grande Punto 1.4 Fire Active,Grande Punto,149853,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,2,0,12.506177237980511
+410000,4,Dacia,1.5 BlueDCI Stepway 115 Ps MPV,Lodgy,95760,Düz,Dizel,Önden Çekiş,50.0,1461,113.0,0,0,12.92391243868049
+650000,1,Dacia,1.5 BlueDCI Ambiance 95 Ps MPV,Lodgy,6860,Düz,Dizel,Önden Çekiş,50.0,1461,94.0,0,0,13.38472764187182
+695000,3,Ford,1.5 Ti-VCT Trend X 123 Ps Sedan,Focus,5747,Düz,Benzin,Önden Çekiş,52.0,1497,121.0,0,0,13.45166712454693
+417000,5,Citroen,1.6 BlueHDI Live 100 Ps Sedan,C-Elysee,124234,Düz,Dizel,Önden Çekiş,50.0,1560,98.0,0,0,12.94084150078094
+430000,7,Toyota,1.33 Life 99 Ps Hatchback,Auris,60277,Düz,Benzin,Önden Çekiş,50.0,1329,98.0,0,0,12.971540487669746
+325000,8,Seat,Ibiza 1.4 16V Style,Ibiza,124938,Düz,Benzin,Önden Çekiş,45.0,1390,85.0,0,0,12.691580461311874
+390000,8,Renault,1.2 Turbo Joy EDC 120 Ps Hatchback,Clio,115638,Düz,Benzin,Önden Çekiş,45.0,1197,118.0,0,0,12.873902018105829
+400000,7,Renault,1.2 Turbo Joy EDC 120 Ps Hatchback,Clio,67548,Düz,Benzin,Önden Çekiş,45.0,1197,118.0,0,0,12.89921982609012
+350000,7,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,42758,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,1,12.765688433465597
+362500,12,Opel,Astra 1.3 CDTI ecoFLEX Enjoy Plus,Astra,161302,Düz,Dizel,Önden Çekiş,56.0,1248,95.0,0,0,12.800779753276867
+340000,9,Renault,Clio 1.5 dCi Icon,Clio,177342,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,0,2,12.736700896592344
+410000,8,Ford,Tourneo Connect 1.6 TDCi SWB Titanium,Tourneo Connect,201200,Düz,Dizel,Önden Çekiş,60.0,1560,115.0,2,0,12.92391243868049
+399900,9,Renault,Kangoo Multix 1.5 dCi Extreme,Kangoo,317152,Düz,Dizel,Önden Çekiş,60.0,1461,90.0,0,0,12.89896979483491
+249000,8,Fiat,Linea 1.3 Multijet Pop,Linea,178117,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,2,0,12.425208175446844
+295000,8,Fiat,Linea 1.4 Fire Actual,Linea,150000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,0,0,12.594730635321957
+305000,8,Fiat,Linea 1.4 Fire Actual,Linea,162000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,0,0,12.628067055589549
+229900,19,Opel,Corsa 1.3 CDTI Essentia,Corsa,219311,Düz,Dizel,Önden Çekiş,44.0,1248,70.0,2,1,12.345399710751273
+357000,9,Opel,Corsa 1.2 Twinport Essentia 15 Alaşım Jant,Corsa,39000,Düz,Benzin,Önden Çekiş,45.0,1229,85.0,0,0,12.785491060761776
+238900,11,Renault,Symbol 1.2 16V Authentique Edition,Symbol,156291,Düz,Benzin,Önden Çekiş,50.0,1149,75.0,0,0,12.383800333313902
+308000,11,Renault,Symbol 1.2 16V Expression,Symbol,112538,Düz,Benzin,Önden Çekiş,50.0,1149,75.0,0,0,12.637855061955712
+364900,6,Fiat,1.3 MultiJet Safeline ESP 90 Ps Combi,Doblo,60035,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,0,0,12.807378622424539
+431000,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,35059,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.973863369085885
+365900,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,104551,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,1,12.810115351007298
+400000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,45000,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,94.0,1,0,12.89921982609012
+342500,7,Fiat,1.6 MultiJet Premio Plus 105 Ps Combi,Doblo,186846,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,3,0,12.744026936684417
+297750,8,Citroen,1.2 VTI Comfort ETG5 83 Ps Sedan,C-Elysee,195795,Düz,Benzin,Önden Çekiş,50.0,1199,82.0,2,2,12.604009487217546
+315000,8,Fiat,1.3 MultiJet Easy 90 Ps Combi,Doblo,169500,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,0,0,12.66032791780777
+322000,8,Fiat,1.3 MultiJet Easy 90 Ps Combi,Doblo,208000,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,0,0,12.682306824526545
+255000,16,Ford,Tourneo Connect K210 S 1.8 TDCi,Tourneo Connect,175000,Düz,Dizel,Önden Çekiş,60.0,1753,90.0,6,0,12.449018824140563
+470000,11,Opel,Astra 1.4 T Sport Active Select,Astra,155800,Otomatik,LPG & Benzin,Önden Çekiş,56.0,1364,140.0,0,0,13.060487973686241
+375000,11,Opel,Astra Classic III 1.6i 16V Essentia,Astra,120000,Düz,LPG & Benzin,Önden Çekiş,52.0,1598,115.0,0,0,12.834681304952548
+170000,13,Fiat,Doblo Combi 1.3 M.jet Safeline,Doblo,278340,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,9,3,12.043553716032399
+345000,11,Hyundai,i20 1.2 D-CVVT JUMP,i20,128800,Düz,LPG & Benzin,Önden Çekiş,45.0,1248,85.0,0,0,12.751299696013497
+303000,9,Hyundai,i20 1.2 D-CVVT SENSE,i20,82944,Düz,Benzin,Önden Çekiş,45.0,1248,85.0,3,1,12.621488084491506
+290000,10,Fiat,Linea 1.3 Multijet Active Plus,Linea,128747,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.577636201962656
+365000,10,Volkswagen,Polo 1.2 TDI Trendline,Polo,209891,Düz,Dizel,Önden Çekiş,45.0,1199,75.0,3,1,12.80765263256463
+269000,10,Renault,Clio SportTourer 1.5 dCi Joy,Clio,276000,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,0,3,12.502466658583977
+530000,1,Fiat,1.3 MultiJet Easy Plus 95 Ps Sedan,Egea,17713,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.180632285528304
+275000,16,Fiat,Grande Punto 1.4 Starjet Dynamic,Grande Punto,177865,Düz,Benzin,Önden Çekiş,45.0,1368,95.0,4,0,12.524526376648708
+390000,4,Renault,1.2 16V Joy 75 Ps Hatchback,Clio,44515,Düz,Benzin,Önden Çekiş,45.0,1149,74.0,1,0,12.873902018105829
+355000,3,Peugeot,1.5 BlueHDI Active 102 Ps Sedan,301,58700,Düz,Dizel,Önden Çekiş,50.0,1499,100.0,0,0,12.779873068457553
+530000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,16187,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.180632285528304
+475000,3,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,33269,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.071070083016778
+530000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,5437,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.180632285528304
+530000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,4363,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.180632285528304
+530000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,7329,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.180632285528304
+460000,1,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,9222,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.038981768465277
+393000,4,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,30966,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.881564890851399
+405000,7,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,46910,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.911642346088676
+370000,8,Fiat,1.6 MultiJet Premio 105 Ps Combi,Doblo,98000,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,0,0,12.821258284620408
+360000,7,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,91290,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.793859310432293
+285000,6,Peugeot,1.6 HDI Active 93 Ps Sedan,301,258714,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,0,0,12.560244459250788
+430000,5,Hyundai,1.4 MPI Elite Otomatik 100 Ps Hatchback,i20,76451,Düz,Benzin,Önden Çekiş,50.0,1368,99.0,0,0,12.971540487669746
+245000,8,Fiat,1.3 MultiJet Maxi Easy 90 Ps Combi,Doblo,201551,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,5,4,12.409013489526863
+395900,6,Hyundai,1.4 CRDI Style 90 Ps Hatchback,i20,80744,Düz,Dizel,Önden Çekiş,45.0,1396,89.0,2,0,12.888916933094222
+560000,7,Opel,1.4 Turbo Dynamic Otomatik 150 Ps Hatchback,Astra,73586,Otomatik,Benzin,Önden Çekiş,52.0,1399,148.0,0,0,13.235692062711331
+300000,5,Fiat,1.6 MultiJet Easy 120 Ps Combi,Doblo,264450,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,12.611537753638338
+385000,9,Citroen,C- Elysee 1.6 HDİ Exclusive,C- Elysee,250725,Düz,Dizel,Önden Çekiş,48.0,1560,92.0,3,0,12.86099861326992
+280000,16,Ford,Tourneo Connect K210 S 1.8 TDCi,Tourneo Connect,154013,Düz,Dizel,Önden Çekiş,60.0,1753,90.0,4,1,12.542544882151386
+295000,14,Hyundai,Getz 1.4 DOHC AB AC,Getz,153219,Düz,Benzin,Önden Çekiş,45.0,1399,97.0,4,1,12.594730635321957
+220000,13,Fiat,Albea Sole 1.4 Fire Premio,Albea,152067,Düz,Benzin,Önden Çekiş,48.0,1368,77.0,0,0,12.301382825334498
+285000,12,Ford,Fiesta 1.4 TDCi Trend,Fiesta,151912,Düz,Dizel,Önden Çekiş,45.0,1398,70.0,3,0,12.560244459250788
+330000,10,Renault,Fluence 1.5 dCi Joy EDC,Fluence,211800,Otomatik,Dizel,Önden Çekiş,60.0,1461,110.0,3,0,12.706847933442663
+388750,10,Hyundai,ACCENT BLUE 1.6 CRDI MODE PLUS,Accent,68860,Düz,Dizel,Önden Çekiş,43.0,1582,128.0,0,0,12.87069174247558
+335000,8,Hyundai,i20 1.2 D-CVVT JUMP,i20,123841,Düz,Benzin,Önden Çekiş,45.0,1248,85.0,3,0,12.721885810807203
+310000,11,Fiat,Grande Punto 1.3 Multijet,Grande Punto,231969,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,8,0,12.644327576461329
+325000,6,Fiat,Linea 1.3 Multijet Pop,Linea,50790,Düz,Benzin,Önden Çekiş,45.0,1248,95.0,0,0,12.691580461311874
+360000,8,Fiat,Doblo Combi 1.3 M.jet Premio,Doblo,228039,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,3,0,12.793859310432293
+225000,18,Citroen,C3 1.4 16V SensoDrive,C3,163500,Otomatik,Benzin,Önden Çekiş,45.0,1360,92.0,5,0,12.323855681186558
+245000,9,Fiat,Linea 1.3 Multijet Pop,Linea,148749,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,1,12.409013489526863
+299900,10,Opel,Corsa 1.2 Twinport Essentia,Corsa,115174,Düz,Benzin,Önden Çekiş,45.0,1229,85.0,3,3,12.6112043647371
+240000,16,Ford,Focus 1.6 TDCi Trend,Focus,325590,Düz,Dizel,Önden Çekiş,55.0,1560,110.0,10,1,12.388394202324129
+200000,12,Fiat,Albea Sole 1.3 Multijet Dynamic Plus,Albea,247088,Düz,Dizel,Önden Çekiş,48.0,1248,70.0,3,0,12.206072645530174
+290000,3,Fiat,Doblo Cargo Maxi 1.6 Multijet Plus Pack,Doblo,250000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,3,0,12.577636201962656
+360000,11,Peugeot,301 1.6 Hdi Allure,301,101883,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,2,0,12.793859310432293
+238000,8,Dacia,Dokker Van 1.5 DCI Ambiance,Dokker,113215,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,1,0,12.380025952653611
+235750,18,Ford,Transit Connect T220 S 1.8 TDdi,Transit Connect,157015,Düz,Benzin,Önden Çekiş,60.0,1753,75.0,0,3,12.370527200495705
+235000,17,Hyundai,Getz 1.4 DOHC AB AC,Getz,170450,Düz,LPG & Benzin,Önden Çekiş,45.0,1399,97.0,1,2,12.367340793126296
+345000,13,Renault,Megane 1.5 dCi Expression,Megane,166367,Düz,Dizel,Önden Çekiş,60.0,1461,85.0,2,0,12.751299696013497
+350000,7,Peugeot,301 1.6 Hdi Active,301,103797,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,2,1,12.765688433465597
+590000,3,Fiat,1.6 MultiJet Mirror 120 Ps Sedan,Egea,23189,Düz,Dizel,Önden Çekiş,45.0,1598,118.0,0,0,13.287877815881902
+272500,12,Opel,1.3 CDTI Enjoy 111 90 Ps Sedan,Astra,274320,Düz,Dizel,Önden Çekiş,52.0,1248,89.0,0,0,12.515393893085436
+395900,3,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,84572,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,0,12.888916933094222
+255000,18,Nissan,Micra 1.2 Tekna Otomatik,Micra,161420,Düz,LPG & Benzin,Önden Çekiş,46.0,1240,80.0,6,2,12.449018824140563
+213000,17,Honda,City 1.4 Elite,City,218516,Düz,LPG & Benzin,Önden Çekiş,42.0,1339,83.0,0,2,12.269047444691562
+328900,7,Fiat,1.3 MultiJet Safeline ESP 90 Ps Combi,Doblo,82000,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,2,1,12.703509032177148
+435000,11,Opel,Astra 1.6 Edition,Astra,115897,Düz,Benzin,Önden Çekiş,56.0,1598,115.0,0,0,12.983101310070822
+335000,10,Peugeot,301 1.6 Hdi Allure,301,135506,Düz,Benzin,Önden Çekiş,50.0,1560,92.0,5,8,12.721885810807203
+300000,19,Renault,Symbol 1.4 Expression,Symbol,170798,Düz,Benzin,Önden Çekiş,50.0,1390,75.0,9,1,12.611537753638338
+211900,12,Renault,Symbol 1.5 dCi Authentique,Symbol,272450,Düz,Dizel,Önden Çekiş,50.0,1461,65.0,2,2,12.263869744256391
+299500,12,Renault,Clio 1.5 dCi Authentique,Clio,111284,Düz,Dizel,Önden Çekiş,55.0,1461,65.0,0,0,12.609869696537642
+350000,17,Toyota,Corolla 1.4 D-4D Luna,Corolla,151306,Düz,Dizel,Önden Çekiş,55.0,1364,90.0,4,4,12.765688433465597
+199900,15,Ford,Transit Connect K210 S 1.8 TDCi Standart şasi,Transit Connect,215150,Düz,Dizel,Önden Çekiş,60.0,1753,90.0,3,0,12.205572520488492
+330000,17,Hyundai,Getz 1.4 DOHC AB AC,Getz,99602,Düz,Benzin,Önden Çekiş,45.0,1399,97.0,2,0,12.706847933442663
+299500,11,Fiat,Punto EVO 1.4 Fire My Life Start-Stop,Punto,173595,Düz,LPG & Benzin,Önden Çekiş,45.0,1368,77.0,0,0,12.609869696537642
+375000,8,Renault,Clio SportTourer 1.5 dCi Joy,Clio,101436,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,2,1,12.834681304952548
+251000,13,Ford,Fiesta 1.4 TDCi Titanium,Fiesta,180799,Düz,Dizel,Önden Çekiş,45.0,1398,68.0,6,2,12.43320821811392
+333000,7,Fiat,1.3 MultiJet Popstar 75 Ps Hatchback,Punto,58186,Düz,LPG & Benzin,Önden Çekiş,45.0,1248,74.0,0,0,12.71589776896258
+248000,12,Fiat,Punto EVO 1.3 Mjet Active,Punto,202329,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,4,0,12.421184025147118
+397500,6,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,110188,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,3,2,12.892950213076524
+400000,6,Citroen,1.6 HDI Feel 93 Ps Sedan,C-Elysee,129446,Düz,Dizel,Önden Çekiş,48.0,1560,92.0,3,0,12.89921982609012
+284900,9,Opel,Corsa 1.2 Twinport Active 15 Alaşım Jant,Corsa,88271,Düz,Benzin,Önden Çekiş,45.0,1229,85.0,0,0,12.559893520486
+352500,11,Opel,Astra Classic III 1.6i 16V Essentia Easytronic,Astra,173701,Otomatik,LPG & Benzin,Önden Çekiş,52.0,1598,115.0,3,0,12.772805901234461
+169900,18,Hyundai,GETZ 1.3 GLS,Getz,242441,Düz,LPG & Benzin,Önden Çekiş,45.0,1341,82.0,0,2,12.042965307660024
+279900,9,Fiat,Linea 1.3 Multijet Urban,Linea,220371,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,3,3,12.542187675503545
+325000,11,Renault,Fluence 1.5 dCi Extreme,Fluence,192050,Düz,Dizel,Önden Çekiş,60.0,1461,110.0,3,0,12.691580461311874
+359900,11,Ford,Fiesta 1.4 Titanium,Fiesta,87938,Düz,Benzin,Önden Çekiş,42.0,1388,96.0,0,0,12.793581494067123
+280000,13,Ford,Fiesta 1.4 Titanium,Fiesta,288000,Düz,Dizel,Önden Çekiş,42.0,1388,96.0,8,0,12.542544882151386
+260000,19,Ford,Transit Connect T220 S 1.8 TDdi,Transit Connect,211421,Düz,Dizel,Önden Çekiş,60.0,1753,75.0,6,1,12.468436909997665
+195000,18,Renault,Symbol1.5 dCi Alize ( 80 ),Symbol,230000,Düz,Dizel,Önden Çekiş,50.0,1461,80.0,0,0,12.180754837545884
+217500,12,Kia,Rio 1.4 GSL Trend,Rio,199100,Düz,Benzin,Önden Çekiş,45.0,1399,97.0,2,0,12.289954129510877
+280000,11,Fiat,Doblo Combi 1.3 Multijet Dynamic,Doblo,217000,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,1,12.542544882151386
+290000,10,Fiat,Doblo Combi 1.3 M.jet Easy,Doblo,86900,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,0,12.577636201962656
+250000,10,Fiat,Punto 1.2 Pop S-S,Punto,271614,Düz,Benzin,Önden Çekiş,45.0,1242,69.0,4,0,12.429216196844383
+775000,5,Hyundai,1.6 CRDI 4x2 Elite DCT 136 Ps SUV,Tucson,186900,Düz,Dizel,Önden Çekiş,62.0,1598,134.0,0,1,13.560618308335483
+400000,6,Renault,1.0 SCe Joy 75 Ps Sedan,Symbol,84593,Düz,Benzin,Önden Çekiş,50.0,9980,74.0,0,0,12.89921982609012
+169900,17,Hyundai,Matrix 1.6 GLS,Matrix,275189,Düz,LPG & Benzin,Önden Çekiş,55.0,1599,103.0,3,4,12.042965307660024
+358500,8,Fiat,1.3 MultiJet Safeline 90 Ps Combi,Doblo,96850,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,1,0,12.789683939021812
+244500,12,Hyundai,Matrix 1.5 CRDi VGT Style,Matrix,85395,Düz,Dizel,Önden Çekiş,55.0,1493,110.0,5,0,12.406970587897064
+420000,8,Opel,1.4 Essentia Otomatik 90 Ps Hatchback,Corsa,83121,Düz,Benzin,Önden Çekiş,45.0,1398,89.0,0,0,12.948009990259552
+250000,15,Fiat,Linea 1.3 Multijet Active,Linea,167521,Düz,Dizel,Önden Çekiş,45.0,1248,90.0,2,2,12.429216196844383
+305000,14,Ford,Fiesta 1.4 Titanium,Fiesta,176100,Düz,LPG & Benzin,Önden Çekiş,42.0,1388,96.0,0,1,12.628067055589549
+295000,12,Fiat,Punto EVO 1.4 8V Active,Punto,158000,Otomatik,Benzin,Önden Çekiş,45.0,1368,77.0,5,3,12.594730635321957
+298500,11,Chevrolet,Aveo 1.3 D LTZ,Aveo,173881,Düz,Dizel,Önden Çekiş,46.0,1248,95.0,0,0,12.606525211814795
+345900,9,Ford,Fiesta 1.25 Trend X,Fiesta,121112,Düz,Benzin,Önden Çekiş,42.0,1242,82.0,0,0,12.75390499492526
+230000,18,Ford,Fiesta 1.4 TDCi Comfort,Fiesta,225000,Düz,Dizel,Önden Çekiş,45.0,1399,68.0,0,0,12.345834587905333
+350000,12,Fiat,Linea 1.6 Multijet Emotion Plus,Linea,126723,Düz,Dizel,Önden Çekiş,45.0,1598,105.0,2,2,12.765688433465597
+353000,8,Fiat,Linea 1.3 Multijet Lounge GSR,Linea,86115,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,1,12.774223335915433
+271500,14,Hyundai,i30 1.6 CRDi Select,i30,213603,Düz,Dizel,Önden Çekiş,53.0,1582,115.0,0,0,12.511717418356127
+420000,8,Fiat,1.3 EcoJet Premio 90 Ps Combi,Doblo,114302,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,0,1,12.948009990259552
+310000,6,Fiat,1.6 MultiJet Maxi Safeline ESP 105 Ps Combi,Doblo,165070,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,0,2,12.644327576461329
+390000,8,Peugeot,1.4 HDI Active 69 Ps Hatchback,208,112885,Düz,Dizel,Önden Çekiş,50.0,1398,68.0,1,0,12.873902018105829
+360000,9,Fiat,Linea 1.3 Multijet Pop,Linea,145745,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,3,0,12.793859310432293
+315900,8,Fiat,Linea 1.3 Multijet Actual,Linea,60250,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,1,12.663180986790177
+280000,17,Fiat,Albea 1.4 Fire Active,Albea,217334,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,6,0,12.542544882151386
+467500,4,Fiat,1.6 MultiJet Easy DCT 120 Ps Sedan,Egea,87625,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,0,0,13.055154627710879
+485000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,11935,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,2,13.091904169919621
+517000,5,Renault,Clio SportTourer 1.5 dCi Icon EDC,Clio,118100,Otomatik,Dizel,Önden Çekiş,45.0,1461,90.0,0,0,13.155798153490567
+234900,12,Nissan,Micra 1.2 Passion,Micra,169204,Düz,Benzin,Önden Çekiş,41.0,1198,80.0,2,0,12.366915170647005
+360000,13,Renault,Clio 1.5 dCi Authentique,Clio,230000,Düz,Dizel,Önden Çekiş,55.0,1461,65.0,8,0,12.793859310432293
+390000,10,Hyundai,Accent Blue 1.4 D-CVVT Mode,Accent,139500,Düz,Benzin,Önden Çekiş,43.0,1368,100.0,0,0,12.873902018105829
+242000,14,Dacia,Sandero 1.4 Ambiance,Sandero,130000,Düz,LPG & Benzin,Önden Çekiş,50.0,1390,75.0,0,0,12.396693005138824
+470000,1,Fiat,1.4 Fire Easy Plus 95 Ps Sedan,Egea,11885,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,13.060487973686241
+450000,7,Hyundai,1.2 MPI Elite 84 Ps Hatchback,i20,160020,Düz,Benzin,Önden Çekiş,50.0,1248,83.0,0,0,13.017002861746503
+442000,1,Fiat,1.6 MultiJet Premio Plus 120 Ps Combi,Doblo,124000,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,12.999065161059836
+370000,6,Fiat,1.6 MultiJet Comfort DCT 120 Ps Sedan,Egea,220000,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,0,0,12.821258284620408
+345000,9,Renault,Clio 1.5 dCi Icon EDC,Clio,217500,Düz,Benzin,Önden Çekiş,45.0,1461,90.0,0,0,12.751299696013497
+665000,7,Seat,1.4 EcoTSI ACT Xcellence DSG 150 Ps SUV,Ateca,62075,Düz,Benzin,Önden Çekiş,50.0,1395,148.0,0,0,13.407542319637992
+420000,10,Jeep,Compass 2.0 Limited,Compass,153734,Düz,Benzin,Önden Çekiş,51.0,1998,156.0,4,0,12.948009990259552
+350000,9,Fiat,Linea 1.3 Multijet Pop,Linea,97604,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,2,0,12.765688433465597
+345000,10,Fiat,Linea 1.3 Multijet Pop,Linea,176908,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,3,0,12.751299696013497
+300000,6,Fiat,Linea 1.3 Multijet Pop,Linea,183000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,3,0,12.611537753638338
+355000,13,Toyota,COROLLA SEDAN 1.33 COMFORT,Corolla,285000,Düz,Benzin,Önden Çekiş,55.0,1329,99.0,1,2,12.779873068457553
+400000,8,Citroen,C- Elysee 1.6 HDİ Confort,C- Elysee,154000,Düz,Dizel,Önden Çekiş,48.0,1560,92.0,0,0,12.89921982609012
+350000,12,Fiat,Linea 1.3 Multijet Active Plus,Linea,206031,Düz,Dizel,Önden Çekiş,45.0,1248,90.0,6,0,12.765688433465597
+370000,9,Fiat,Linea 1.3 Multijet Active Plus,Linea,128487,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,0,12.821258284620408
+280000,10,Fiat,Linea 1.4 Fire Actual,Linea,144000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,3,0,12.542544882151386
+300000,16,Renault,Clio 1.5 dCi Expression,Clio,137332,Düz,Dizel,Önden Çekiş,55.0,1461,75.0,3,1,12.611537753638338
+321000,10,Citroen,C- Elysee 1.2 VTi Attraction,C- Elysee,103700,Düz,Benzin,Önden Çekiş,50.0,1199,72.0,0,0,12.679196402112153
+230000,17,Volkswagen,Polo 1.4 Goal,Polo,221103,Düz,LPG & Benzin,Önden Çekiş,45.0,1390,75.0,3,0,12.345834587905333
+260000,7,Fiat,1.3 MultiJet Easy ESP 90 Ps Combi,Doblo,235000,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,7,0,12.468436909997665
+450000,3,Fiat,1.6 MultiJet Premio Plus 120 Ps Combi,Doblo,27000,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,13.017002861746503
+480000,3,Fiat,1.3 MultiJet Maxi Safeline 95 Ps Combi,Doblo,85369,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,13.081541382884074
+300000,4,Fiat,1.2 Fire City Cross 69 Ps Hatchback,Panda,83000,Düz,Benzin,Önden Çekiş,37.0,1242,68.0,5,0,12.611537753638338
+290000,16,Ford,Focus 1.6 Trend,Focus,185000,Düz,Dizel,Önden Çekiş,55.0,1596,100.0,0,0,12.577636201962656
+250000,15,Ford,Focus 1.6 TDCi Trend,Focus,210000,Düz,Dizel,Önden Çekiş,55.0,1560,109.0,5,2,12.429216196844383
+605000,9,Volkswagen,Jetta 1.6 TDI Highline DSG,Jetta,98429,Otomatik,Dizel,Önden Çekiş,55.0,1598,105.0,3,0,13.312983737012978
+256000,20,Bmw,318i,3 Serisi,248000,Otomatik,Benzin,Arkadan İtiş,63.0,1995,143.0,0,0,12.4529327234617
+290000,13,Suzuki,SX4 1.6 DDiS GL,SX4,201000,Düz,Dizel,Önden Çekiş,50.0,1560,89.0,0,0,12.577636201962656
+310000,12,Citroen,C5 1.6 HDi Confort,C5,336423,Düz,Dizel,Önden Çekiş,71.0,1560,112.0,6,0,12.644327576461329
+340000,12,Renault,Megane 1.5 dCi Privilege,Megane,195017,Düz,Dizel,Önden Çekiş,60.0,1461,105.0,2,2,12.736700896592344
+310000,11,Ford,Transit Connect K210 S 1.8 TDCi Standart şasi,Transit Connect,205000,Düz,Dizel,Önden Çekiş,60.0,1753,90.0,6,1,12.644327576461329
+500000,1,Hyundai,1.4 MPI Jump 100 Ps Hatchback,i20,6850,Düz,Benzin,Önden Çekiş,40.0,1368,99.0,0,0,13.122363377404328
+550000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,6113,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.217673557208654
+500000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,9850,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.122363377404328
+395000,7,Dacia,Duster 1.5 dCi Ambiance 4x4,Duster,227250,Düz,Dizel,4x4,50.0,1461,90.0,1,0,12.886641043883259
+250000,9,Citroen,C- Elysee 1.6 HDİ Attraction,C- Elysee,291472,Düz,Dizel,Önden Çekiş,48.0,1560,92.0,3,0,12.429216196844383
+469000,6,Dacia,Sandero 1.5 dCi Stepway,Sandero,104000,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,0,0,13.058358047428417
+330000,13,Peugeot,308 1.6 VTi Millesim Otomatik,308,110994,Düz,Benzin,Önden Çekiş,60.0,1598,120.0,3,3,12.706847933442663
+550000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,19000,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.217673557208654
+550000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,18589,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.217673557208654
+550000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,18000,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.217673557208654
+550000,1,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,13255,Düz,Dizel,Önden Çekiş,50.0,1248,94.0,0,0,13.217673557208654
+269900,12,Renault,Symbol 1.5 dCi Authentique,Symbol,131101,Düz,Dizel,Önden Çekiş,50.0,1461,65.0,2,1,12.505806799006097
+342000,6,Fiat,Linea 1.3 Multijet Pop,Linea,151573,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.742566016044742
+335000,6,Fiat,Linea 1.3 Multijet Pop,Linea,141198,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,0,12.721885810807203
+351000,6,Fiat,Linea 1.3 Multijet Pop,Linea,162974,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.768541502448002
+353000,6,Fiat,Linea 1.3 Multijet Pop,Linea,147084,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.774223335915433
+440000,2,Fiat,Doblo Cargo Maxi 1.6 Multijet,Doblo,46500,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,12.994530005894443
+268700,6,Dacia,Dokker Van 1.5 DCI Ambiance,Dokker,253000,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,0,1,12.501350794603583
+195000,10,Citroen,Nemo Combi 1.3 HDI SX Plus Vizyon,Nemo,250000,Düz,Dizel,Önden Çekiş,45.0,1248,74.0,0,2,12.180754837545884
+460000,7,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,144162,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,13.038981768465277
+410900,3,Fiat,1.3 MultiJet Easy 95 Ps Combi,Doblo,51387,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.9261051548715
+400000,6,Fiat,1.6 MultiJet Lounge Plus DCT 120 Ps Sedan,Egea,144100,Otomatik,Dizel,Önden Çekiş,45.0,1598,118.0,0,0,12.89921982609012
+330000,5,Fiat,1.3 MultiJet Safeline 95 Ps Combi,Doblo,82868,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.706847933442663
+280000,13,Dacia,Sandero 1.5 DCI Stepway,Sandero,215700,Düz,Dizel,Önden Çekiş,50.0,1461,70.0,0,0,12.542544882151386
+245000,11,Fiat,Punto 1.3 Mjet Easy S-S,Punto,194069,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,0,0,12.409013489526863
+270000,9,Fiat,Doblo Combi 1.3 M.jet Safeline,Doblo,212422,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,2,5,12.506177237980511
+310000,10,Ford,C-Max 1.6 TDCi Trend,C-Max,282691,Düz,Dizel,Önden Çekiş,53.0,1560,115.0,0,3,12.644327576461329
+355900,6,Fiat,1.6 MultiJet Trekking 105 Ps Combi,Doblo,168739,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,4,1,12.782405071498284
+418500,11,Ford,Focus 1.0 GTDi EcoBoost Style,Focus,107639,Düz,Benzin,Önden Çekiş,55.0,9990,125.0,8,1,12.944432168911668
+275900,7,Fiat,1.4 S7 Popstar 77 Ps Hatchback,Punto,76000,Düz,Benzin,Önden Çekiş,45.0,1368,76.0,0,0,12.527793760205377
+315000,8,Hyundai,1.6 CRDI Mode DCT 136 Ps Sedan,Accent Blue,220000,Otomatik,Dizel,Önden Çekiş,43.0,1582,134.0,7,0,12.66032791780777
+368000,3,Fiat,1.3 MultiJet Premio Plus 95 Ps Combi,Doblo,95000,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.815838217151068
+235000,13,Fiat,Linea 1.3 Multijet Active Plus,Linea,220000,Düz,Dizel,Önden Çekiş,45.0,1248,90.0,5,0,12.367340793126296
+268000,10,Fiat,Linea 1.4 Fire Active Plus,Linea,66000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,8,0,12.498742259492994
+265000,10,Renault,Symbol 1.5 dCi Joy,Symbol,146500,Düz,Dizel,Önden Çekiş,50.0,1461,90.0,1,2,12.487485104968359
+235900,10,Fiat,Doblo Combi 1.3 Multijet Dynamic,Doblo,207067,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,0,0,12.371163265395767
+340000,11,Ford,Fiesta 1.4 TDCi Titanium,Fiesta,151895,Düz,Benzin,Önden Çekiş,45.0,1398,68.0,3,1,12.736700896592344
+490000,10,Ford,C-Max 1.6 TDCi Titanium,C-Max,189900,Düz,Benzin,Önden Çekiş,53.0,1560,115.0,2,0,13.102160670086809
+249900,12,Fiat,Punto EVO 1.3 Mjet Active,Punto,155889,Düz,Benzin,Önden Çekiş,45.0,1248,75.0,5,3,12.428816116823043
+315000,5,Fiat,1.3 MultiJet Safeline ESP 90 Ps Combi,Doblo,168831,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,1,0,12.66032791780777
+220000,9,Citroen,Nemo Combi 1.3 HDI SX Plus,Nemo,110719,Düz,Dizel,Önden Çekiş,45.0,1248,74.0,10,3,12.301382825334498
+408000,12,Ford,Focus 1.6 Comfort,Focus,99334,Düz,LPG & Benzin,Önden Çekiş,55.0,1596,100.0,0,0,12.9190224533863
+259500,10,Fiat,Linea 1.3 Multijet Actual,Linea,240890,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.46651198158808
+269500,10,Fiat,Linea 1.3 Multijet Actual,Linea,205155,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.504323669331189
+259500,10,Fiat,Linea 1.3 Multijet Actual,Linea,197210,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.46651198158808
+707000,2,Opel,1.5 CDTI Ultimate Otomatik 132 Ps Kombi,Combo,18138,Otomatik,Dizel,Önden Çekiş,50.0,1499,130.0,0,0,13.468785944878709
+450000,8,Hyundai,1.2 MPI Elite 84 Ps Hatchback,i20,123453,Düz,Benzin,Önden Çekiş,50.0,1248,83.0,0,0,13.017002861746503
+462000,3,Fiat,1.4 16V Fire Street 95 Ps Hatchback,Egea,73442,Düz,LPG & Benzin,Önden Çekiş,50.0,1368,94.0,0,0,13.043320170063875
+360900,8,Hyundai,1.2 MPI Style 84 Ps Hatchback,i20,46136,Düz,Benzin,Önden Çekiş,50.0,1248,83.0,3,1,12.79635619063088
+475900,7,Ford,Focus 1.6 TDCi Trend X,Focus,34217,Düz,Benzin,Önden Çekiş,53.0,1560,95.0,1,0,13.072963027109202
+249500,10,Fiat,Linea 1.3 Multijet Actual,Linea,264671,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.427214194173711
+218500,10,Fiat,Linea 1.3 Multijet Actual,Linea,383962,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.294541293517781
+450000,9,Opel,Astra 1.6 CDTI Start-Stop Cosmo,Astra,120359,Düz,Dizel,Önden Çekiş,56.0,1598,136.0,7,0,13.017002861746503
+430000,7,Fiat,1.4 Fire Urban 95 Ps Sedan,Egea,100200,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,4,0,12.971540487669746
+1250000,2,Jeep,1.3 GSE 4x2 Longitude DDCT 150 Ps SUV,Compass,6046,Otomatik,Benzin,Önden Çekiş,55.0,1332,148.0,0,0,14.038654109278484
+750000,2,Opel,1.4 Turbo Edition CVT 145 Ps Hatchback,Astra,7437,Otomatik,Benzin,Önden Çekiş,48.0,1342,143.0,0,0,13.527828485512494
+650000,8,Audi,1.6 TDI Attraction S-Tronic 110 Ps Sportback,A3,147929,Otomatik,Dizel,Önden Çekiş,50.0,1598,109.0,0,0,13.38472764187182
+650000,8,Opel,1.6 CDTI Cosmo Otomatik 136 Ps SUV,Mokka,73770,Düz,Dizel,Önden Çekiş,52.0,1598,134.0,0,0,13.38472764187182
+362500,12,Kia,Ceed 1.6 CRDi Motion Otomatik,Ceed,136641,Otomatik,Dizel,Önden Çekiş,53.0,1582,115.0,3,0,12.800779753276867
+320000,7,Fiat,Doblo Combi 1.6 Multijet Safeline,Doblo,252238,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,1,12.676076274775909
+350000,3,Fiat,Doblo Combi 1.6 Multijet Easy,Doblo,32250,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,0,12.765688433465597
+200000,18,Fiat,Albea 1.3 Multijet Active,Albea,275000,Düz,Dizel,Önden Çekiş,48.0,1248,70.0,2,0,12.206072645530174
+285000,7,Hyundai,i10 1.0 D-CVVT Style,i10,129000,Düz,Benzin,Önden Çekiş,40.0,9980,65.0,1,0,12.560244459250788
+230000,9,Fiat,Doblo Combi Maxi 1.3 M.jet Easy,Doblo,276000,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,12,0,12.345834587905333
+275000,7,Fiat,Linea 1.3 Multijet Pop,Linea,140000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.524526376648708
+237500,10,Fiat,Linea 1.3 Multijet Pop,Linea,300293,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.377922902456833
+300000,11,Fiat,Punto 1.3 Mjet Lounge,Punto,137804,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,3,1,12.611537753638338
+250000,18,Renault,Scenic 1.6 Dynamique Otomatik,Scenic,94500,Düz,Benzin,Önden Çekiş,60.0,1598,115.0,12,0,12.429216196844383
+400000,7,Toyota,Yaris 1.33 Fun Special,Yaris,49000,Düz,Benzin,Önden Çekiş,42.0,1329,99.0,2,0,12.89921982609012
+416000,2,Fiat,1.6 MultiJet Trekking 120 Ps Combi,Doblo,25000,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,12.9384405392434
+390000,7,Fiat,1.6 MultiJet Safeline 105 Ps Panorama,Doblo,98771,Düz,Dizel,Önden Çekiş,60.0,1598,103.0,1,0,12.873902018105829
+530000,8,Nissan,Juke 1.5 dCi Sky Pack,Juke,75260,Düz,Dizel,Önden Çekiş,46.0,1461,110.0,0,0,13.180632285528304
+275000,15,Ford,Mondeo 1.6 Titanium,Mondeo,310563,Düz,Benzin,Önden Çekiş,70.0,1596,125.0,9,1,12.524526376648708
+235000,13,Peugeot,207 1.4 Comfort,207,245463,Düz,Benzin,Önden Çekiş,50.0,1360,75.0,3,3,12.367340793126296
+235000,10,Fiat,Doblo Combi 1.6 M.jet Premio,Doblo,257000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,5,1,12.367340793126296
+400000,3,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,117389,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.89921982609012
+395000,3,Fiat,1.4 16V Fire Urban Plus 95 Ps Hatchback,Egea,21237,Düz,Benzin,Önden Çekiş,50.0,1368,94.0,0,0,12.886641043883259
+250000,5,Fiat,1.3 MultiJet 95 Ps Cargo,Doblo,190327,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.429216196844383
+235000,19,Ford,1.4 TDCI Comfort Otomatik 68 Ps Hatchback,Fiesta,235287,Otomatik,Dizel,Önden Çekiş,45.0,1399,67.0,0,0,12.367340793126296
+275000,6,Peugeot,1.6 HDI Access 93 Ps Sedan,301,194000,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,3,2,12.524526376648708
+275000,6,Peugeot,301 1.6 Hdi Access,301,162325,Düz,Dizel,Önden Çekiş,50.0,1560,92.0,4,1,12.524526376648708
+195000,11,Peugeot,206+ 1.4 Envy,206+,145000,Düz,Benzin,Önden Çekiş,50.0,1360,75.0,12,0,12.180754837545884
+965000,3,Honda,Civic 1.6 i-VTEC Executive Eco Otomatik,Civic,28222,Düz,LPG & Benzin,Önden Çekiş,50.0,1598,125.0,0,0,13.779883380321124
+565000,3,Seat,1.0 Evo Style 80 Ps Hatchback,Ibiza,14484,Düz,Benzin,Önden Çekiş,40.0,9990,79.0,0,0,13.244581010128577
+575000,6,Renault,1.2 Tce Touch 130 Ps Sedan,Megane,84775,Otomatik,Benzin,Önden Çekiş,49.0,1198,128.0,0,0,13.262125319779487
+617000,3,Opel,1.5 CDTI Excellence Otomatik 132 Ps Kombi,Combo,40334,Otomatik,Benzin,Önden Çekiş,50.0,1499,130.0,0,0,13.332624302887524
+792000,6,Skoda,1.6 TDI GreenTec Style DSG 115 Ps Hatchback,Octavia,85973,Otomatik,Dizel,Önden Çekiş,50.0,1598,114.0,0,0,13.582316670796564
+631000,7,Volkswagen,1.6 TDI BMT Comfortline 110 Ps Hatchback,Golf,137000,Düz,Dizel,Önden Çekiş,50.0,1598,108.0,0,0,13.35506114152335
+585000,8,Seat,1.2 TSI Style DSG 110 Ps Hatchback,Leon,60000,Otomatik,Benzin,Önden Çekiş,50.0,1197,109.0,0,0,13.279367126213993
+397000,4,Peugeot,1.2 VTI PureTech Active 83 Ps Sedan,301,110000,Düz,Benzin,Önden Çekiş,50.0,1199,82.0,0,0,12.891691559669328
+433000,2,Fiat,1.4 Fire Urban Plus 95 Ps Sedan,Egea,40074,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.978493006984626
+410000,12,Ford,Grand C-Max 1.6 SCTi EcoBoost Titanium,C-Max,161452,Düz,Benzin,Önden Çekiş,60.0,1597,180.0,0,0,12.92391243868049
+332000,11,Chevrolet,Aveo 1.3 D LT,Aveo,99452,Düz,Dizel,Önden Çekiş,46.0,1248,75.0,0,0,12.712890247898626
+234900,17,Volkswagen,Caddy Kombi 1.9 TDI,Caddy,251419,Düz,Dizel,Önden Çekiş,60.0,1896,105.0,3,3,12.366915170647005
+255000,15,Peugeot,207 1.4 HDi Premium,207,231474,Düz,Dizel,Önden Çekiş,50.0,1398,70.0,0,0,12.449018824140563
+290000,9,Dacia,Logan MCV 1.5 dCi Ambiance,Logan,231856,Düz,Dizel,Önden Çekiş,50.0,1461,75.0,0,0,12.577636201962656
+780000,6,Volkswagen,1.6 TDI SCR BMT Comfortline 115 Ps SUV,Tiguan,81000,Düz,Dizel,Önden Çekiş,60.0,1598,114.0,2,0,13.567049198665774
+495000,8,Fiat,1.4 T MultiAir TCT 140 Ps Crossover,500 X,85000,Otomatik,Benzin,Önden Çekiş,48.0,1368,138.0,0,0,13.112313041550827
+295000,5,Fiat,1.3 MultiJet Easy 95 Ps Combi,Doblo,183000,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,8,0,12.594730635321957
+340000,6,Fiat,1.3 MultiJet Urban 95 Ps Sedan,Egea,130000,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,3,1,12.736700896592344
+259000,9,Fiat,Linea 1.4 Fire Pop,Linea,80000,Düz,Benzin,Önden Çekiş,45.0,1368,77.0,0,3,12.464583340681674
+350000,7,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,80000,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,2,0,12.765688433465597
+319000,11,Fiat,Punto 1.3 Mjet Lounge S-S Dualogic,Punto,163000,Otomatik,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.672946381766982
+1075000,3,Peugeot,1.5 BlueHDI GT EAT8 132 Ps Crossover,2008,15326,Otomatik,Dizel,Önden Çekiş,41.0,1499,130.0,0,0,13.8878312195439
+494000,2,Citroen,1.5 BlueHDI Feel 100 Ps Sedan,C-Elysee,46448,Düz,Dizel,Önden Çekiş,50.0,1499,98.0,0,0,13.110290796170059
+507000,12,Chevrolet,Captiva 2.0 16V High Otomatik,Captiva,167161,Otomatik,Dizel,4x4,65.0,1991,150.0,0,0,13.13626628257332
+400000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,96820,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.89921982609012
+350000,4,Peugeot,301 1.2 VTi PureTech Active,301,37746,Düz,Benzin,Önden Çekiş,50.0,1199,72.0,0,0,12.765688433465597
+425000,3,Fiat,1.6 MultiJet Premio 120 Ps Combi,Doblo,40575,Düz,Dizel,Önden Çekiş,60.0,1598,118.0,0,0,12.959844447906553
+396500,2,Fiat,1.3 MultiJet Safeline 95 Ps Combi,Doblo,17000,Düz,Benzin,Önden Çekiş,60.0,1248,94.0,0,0,12.89043132005704
+399500,4,Fiat,1.3 MultiJet Premio Plus 95 Ps Combi,Doblo,36000,Düz,Dizel,Önden Çekiş,60.0,1248,94.0,0,0,12.897969044188466
+310000,13,Ford,Transit Connect GLX K210 S 1.8 TDCi,Transit Connect,178160,Düz,Dizel,Önden Çekiş,60.0,1753,110.0,0,1,12.644327576461329
+320000,9,Renault,Symbol 1.2 16V Joy,Symbol,237000,Düz,Benzin,Önden Çekiş,50.0,1149,75.0,0,0,12.676076274775909
+254900,7,Fiat,1.3 MultiJet Maxi Plus ESP 90 Ps Cargo,Doblo,340834,Düz,Dizel,Önden Çekiş,60.0,1248,89.0,1,3,12.448626590364206
+999900,2,Kia,1.6 CRDI 4x4 Prestige DCT 136 Ps SUV,Sportage,19000,Otomatik,Dizel,4x4,62.0,1598,134.0,0,0,13.815410552963941
+881900,6,Mercedes,200 d BlueTEC Avantgarde 7G-Tronic 136 Ps Sedan,C,69000,Düz,Dizel,Arkadan İtiş,41.0,1598,134.0,0,0,13.689833949876272
+2469900,7,Volvo,2.0 D D5 AWD Inscription Geartronic 225 Ps SUV,XC90,134000,Otomatik,Benzin,4x4,71.0,1969,222.0,0,0,14.719688221954627
+1679900,5,Audi,1.4 TFSI Sport S-Tronic 150 Ps Sportback,A5,110000,Otomatik,Benzin,Önden Çekiş,54.0,1395,148.0,0,0,14.334244825798306
+861900,5,Bmw,116d Premium Line Otomatik 116 Ps Hatchback,1 Serisi,35500,Otomatik,Dizel,Arkadan İtiş,52.0,1496,114.0,1,0,13.66689453363549
+949900,6,Hyundai,1.6 T-GDI 4x4 Elite Plus Red Pack DCT 177 Ps SUV,Tucson,83500,Otomatik,Benzin,4x4,62.0,1591,174.0,0,0,13.764111994878274
+709900,12,Mercedes,C 180 Kompessor BlueEfficiency Prime,C,131000,Otomatik,Benzin,Arkadan İtiş,66.0,1597,156.0,0,1,13.472879394027478
+638900,7,Volkswagen,1.4 TSI ACT BMT Comfortline DSG 150 Ps Hatchback,Golf,93000,Otomatik,Benzin,Önden Çekiş,50.0,1395,148.0,4,1,13.367503226590435
+418900,4,Fiat,1.2 Fire Urban 69 Ps Hatchback,Panda,82000,Düz,Benzin,Önden Çekiş,37.0,1242,68.0,0,0,12.945387506935127
+662900,9,Volvo,1.6 D D2 Premium Powershift 115 Ps Sedan,S60,137000,Otomatik,Benzin,Önden Çekiş,67.0,1560,114.0,1,0,13.404379428229483
+367900,11,Hyundai,i30 1.6 GDi Style,i30,90000,Düz,Benzin,Önden Çekiş,53.0,1591,135.0,0,0,12.815566441092866
+356900,7,Renault,Fluence 1.5 dCi Touch EDC,Fluence,125000,Otomatik,Dizel,Önden Çekiş,60.0,1461,110.0,3,2,12.785210909478252
+229900,10,Fiat,Linea 1.3 Multijet Easy,Linea,172000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.345399710751273
+435900,10,Opel,Astra 1.3 CDTI Cosmo,Astra,145000,Düz,Dizel,Önden Çekiş,56.0,1248,95.0,2,2,12.985168138226484
+326900,7,Renault,Clio 1.5 dCi Touch,Clio,125000,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,0,0,12.697409592712303
+708900,7,Volkswagen,1.6 TDI BMT Comfortline DSG 110 Ps Hatchback,Golf,30600,Otomatik,Dizel,Önden Çekiş,50.0,1598,108.0,0,0,13.47146975184311
+354900,14,Toyota,Auris 1.6 Elegant,Auris,132600,Düz,Benzin,Önden Çekiş,55.0,1598,124.0,2,0,12.779591338634587
+828900,5,Nissan,1.6 DCI Sky Pack X-tronic 130 Ps SUV,Qashqai,45000,Otomatik,Dizel,Önden Çekiş,55.0,1598,128.0,0,0,13.627854799579618
+1724900,6,Bmw,520i Luxury Line Otomatik 170 Ps Sedan,5 Serisi,86000,Otomatik,Benzin,Arkadan İtiş,70.0,1592,168.0,0,1,14.36067963575272
+464900,4,Peugeot,1.5 BlueHDI Allure 102 Ps Sedan,301,29000,Düz,Dizel,Önden Çekiş,50.0,1499,100.0,0,0,13.049577607678676
+294900,11,Opel,Corsa 1.3 CDTI Essentia,Corsa,145000,Düz,Dizel,Önden Çekiş,45.0,1248,75.0,0,1,12.594391594803367
+224900,13,Kia,Picanto 1.1 Hiper,Picanto,114292,Düz,Benzin,Önden Çekiş,35.0,1086,65.0,2,0,12.323411137947407
+225000,13,Hyundai,Getz 1.4 DOHC Start,Getz,170758,Düz,Benzin,Önden Çekiş,45.0,1399,97.0,0,0,12.323855681186558
+205000,14,Citroen,C4 1.6 SX,C4,161000,Düz,Benzin,Önden Çekiş,60.0,1587,110.0,8,0,12.230765258120545
+300000,6,Fiat,Linea 1.3 Multijet Pop,Linea,116571,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.611537753638338
+255000,8,Fiat,Linea 1.3 Multijet Pop,Linea,155000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,0,0,12.449018824140563
+235000,12,Fiat,Linea 1.3 Multijet Actual,Linea,207431,Düz,Dizel,Önden Çekiş,45.0,1248,90.0,0,0,12.367340793126296
+410000,3,Fiat,1.3 MultiJet Urban Plus 95 Ps Sedan,Egea,87227,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,12.92391243868049
+375000,6,Fiat,1.3 MultiJet Urban 95 Ps Sedan,Egea,84479,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,0,12.834681304952548
+315000,11,Renault,Megane Sport Tourer 1.5 dCi Expression,Megane,168050,Düz,Dizel,Önden Çekiş,60.0,1461,85.0,3,0,12.66032791780777
+250000,15,Volkswagen,Caddy Kombi 1.9 TDI,Caddy,283500,Düz,Dizel,Önden Çekiş,60.0,1896,105.0,0,4,12.429216196844383
+240000,10,Ford,1.8 TDCI SWB Silver 90 Ps Kombi,Tourneo Connect,172602,Düz,Dizel,Önden Çekiş,60.0,1753,89.0,0,1,12.388394202324129
+461900,8,Peugeot,2008 1.6 e-HDi Active Start-Stop ETG6,2008,114600,Otomatik,Dizel,Önden Çekiş,50.0,1598,92.0,5,1,13.043103696418697
+170000,25,Suzuki,1.6 JLX 99 Ps SUV,Vitara,300000,Düz,LPG & Benzin,4x4,42.0,1589,97.0,0,0,12.043553716032399
+462500,2,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,37405,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.044401835934616
+450000,6,Fiat,1.6 MultiJet Comfort DCT 120 Ps Sedan,Egea,128287,Düz,Dizel,Önden Çekiş,45.0,1598,118.0,0,1,13.017002861746503
+345000,7,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,160000,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,4,5,12.751299696013497
+415000,3,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,15200,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,1,0,12.936033799212835
+615000,2,Fiat,1.6 MultiJet Lounge Plus 120 Ps Sedan,Egea,4350,Düz,Dizel,Önden Çekiş,45.0,1598,118.0,1,0,13.329377546788654
+275000,12,Ford,1.4 TDCI Titanium X 70 Ps Hatchback,Fiesta,196000,Düz,Benzin,Önden Çekiş,45.0,1398,69.0,3,1,12.524526376648708
+265000,12,Hyundai,Getz 1.4 DOHC Start,Getz,55000,Düz,Benzin,Önden Çekiş,45.0,1399,97.0,0,0,12.487485104968359
+250000,19,Toyota,Corolla 1.6 VVT-i Sol,Corolla,247000,Düz,LPG & Benzin,Önden Çekiş,55.0,1598,110.0,5,1,12.429216196844383
+200000,9,Fiat,Doblo Cargo 1.3 Multijet,Doblo,205000,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,5,1,12.206072645530174
+285000,10,Fiat,Linea 1.3 Multijet Active Plus,Linea,153000,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,1,4,12.560244459250788
+517000,3,Fiat,1.3 MultiJet Urban Plus 95 Ps Sedan,Egea,25000,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,0,0,13.155798153490567
+390000,2,Fiat,1.4 Fire Easy 95 Ps Sedan,Egea,15000,Düz,Benzin,Önden Çekiş,45.0,1368,94.0,0,0,12.873902018105829
+350000,8,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,162500,Otomatik,Dizel,Önden Çekiş,60.0,1598,105.0,2,2,12.765688433465597
+305000,11,Hyundai,i20 1.4 CRDI TUNE,i20,126000,Düz,Dizel,Önden Çekiş,45.0,1396,90.0,2,2,12.628067055589549
+3275900,7,Bmw,730i Long Executive Lounge Otomatik 258 Ps Sedan,7 Serisi,126760,Otomatik,Benzin,Arkadan İtiş,78.0,1998,255.0,0,0,15.002103198458673
+200000,19,Fiat,Albea 1.2 SL,Albea,93938,Düz,Benzin,Önden Çekiş,47.0,1242,80.0,1,0,12.206072645530174
+370000,7,Fiat,1.3 MultiJet Urban 95 Ps Sedan,Egea,116376,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,4,2,12.821258284620408
+435000,6,Fiat,1.6 16V MultiJet II Urban Plus DCT 120 Ps Hatchbac,Egea,69790,Otomatik,Dizel,Önden Çekiş,50.0,1598,118.0,0,3,12.983101310070822
+265000,10,Renault,Clio SportTourer 1.5 dCi Joy,Clio,185500,Düz,Dizel,Önden Çekiş,45.0,1461,75.0,1,1,12.487485104968359
+210000,9,Fiat,Doblo Combi 1.3 M.jet Safeline,Doblo,196415,Düz,Dizel,Önden Çekiş,60.0,1248,90.0,3,2,12.254862809699606
+320000,6,Fiat,1.3 MultiJet Easy 95 Ps Sedan,Egea,76902,Düz,Dizel,Önden Çekiş,45.0,1248,94.0,1,2,12.676076274775909
+246400,12,Fiat,Doblo Combi 1.6 Multijet Premio,Doblo,216561,Düz,Dizel,Önden Çekiş,60.0,1598,105.0,0,2,12.414711510641501
+265900,11,Fiat,Linea 1.3 Multijet Active Plus,Linea,73500,Düz,Dizel,Önden Çekiş,45.0,1248,95.0,4,3,12.490875577231112
+210000,13,Fiat,Doblo Combi 1.6 Multijet Dynamic,Doblo,302819,Düz,Benzin,Önden Çekiş,60.0,1598,105.0,0,1,12.254862809699606
